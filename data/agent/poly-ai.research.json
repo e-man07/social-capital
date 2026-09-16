@@ -1,0 +1,4233 @@
+{
+  "launch": "poly-ai",
+  "extraSearchHits": [
+    {
+      "type": "tweet",
+      "id": "2023794497432269127",
+      "url": "https://x.com/nikola_mrksic/status/2023794497432269127",
+      "twitterUrl": "https://twitter.com/nikola_mrksic/status/2023794497432269127",
+      "text": "I quit Apple because I knew Siri would never make an actual dent in the world.\n\nNot because the tech was bad.\n\nBut because the entire concept had to be rethought.\n\nGeneral-purpose AI assistants try to do everything, and end up doing nothing well.\n\nWhen you optimize for breadth, you can't go deep enough to actually complete transactions.\n\nSiri can tell you about restaurants but it can't book one, can't take payments, can't modify reservations, can't handle the messy back-and-forth that happens in real conversations.\n\nIt's a search interface, not a transaction engine.\n\nWhen we started @polyaivoice, we made one decision: We only do customer service calls.\n\nYes! Just one single thing.\n\nWe wanted to answer your calls so your customers can talk to AI agents that actually know what they're doing.\n\nAnd that focus is exactly why we handle 500M+ calls today.\n\nThis is what actually happens when you go narrow:\n\n1️⃣ you can train on real data that matters.\n\nWe've trained on hundreds of millions of actual customer service calls across hospitality, banking, logistics, and healthcare.\n\nAnd I'm not talking about web-scraped text, or  synthetic conversations.\n\nI'm talking about real calls with real edge cases, real accents, real background noise, real payment failures, and real angry customers.\n\nOur model know what \"I need to move my reservation\" sounds like in 45 different languages because they've heard it millions of times.\n\n2️⃣ you can integrate deeply into actual business systems.\n\nPolyAI doesn't just talk; it pulls data from your CRM, checks availability in your booking system, processes payments through your payment gateway, updates your PMS, triggers workflows, and a lot more.\n\n3️⃣ you can measure what actually matters to businesses.\n\nWe don't track \"user engagement\" or \"daily active users\".\n\nWe track containment rate, revenue per call, cost per contact, CSAT scores, after-hours bookings captured.\n\nThe Melting Pot generated $250K in six months from calls that would've gone to voicemail.\n\n4️⃣ and this is the part that took me years to understand:\n\nYou can actually be held accountable.\n\nWhen your AI is handling a business's main phone line, every failure is visible immediately.\n\nA hallucination doesn't just annoy a user, it costs the business a customer.\n\nSo you build differently.\n\nYou build with guardrails, with fallbacks, with human handoff protocols, and with real-time monitoring.\n\nYou build like the business depends on it, because it does.\n\nPolyAI Agent Studio will help every business have a customer service AI that works 24/7 and actually gets things done.\n\nExcited to have it deployed across your business.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 39,
+      "replyCount": 49,
+      "likeCount": 223,
+      "quoteCount": 4,
+      "viewCount": 69642,
+      "createdAt": "Tue Feb 17 16:19:43 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 101,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2023794497432269127",
+      "displayTextRange": [
+        0,
+        278
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "nikola_mrksic",
+        "url": "https://x.com/nikola_mrksic",
+        "twitterUrl": "https://twitter.com/nikola_mrksic",
+        "id": "232127461",
+        "name": "Nikola Mrkšić",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1988713037168058368/BCLQhGM7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/232127461/1482074898",
+        "description": "",
+        "location": "SF, London, NYC. ",
+        "followers": 1941,
+        "following": 417,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Thu Dec 30 09:16:52 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 658,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 38,
+        "statusesCount": 245,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2020283275185361358"
+        ],
+        "profile_bio": {
+          "description": "CEO of PolyAI - the world's best dialog agents for building the conversational enterprise @polyaivoice",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    90,
+                    102
+                  ],
+                  "name": "",
+                  "screen_name": "polyaivoice"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "poly.ai",
+                  "expanded_url": "http://poly.ai",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/YysodyWseE"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/j13OtefHci",
+            "expanded_url": "https://x.com/nikola_mrksic/status/2023794497432269127/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 53,
+                    "w": 53,
+                    "x": 1096,
+                    "y": 130
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 236,
+                    "y": 325
+                  },
+                  {
+                    "h": 135,
+                    "w": 135,
+                    "x": 350,
+                    "y": 326
+                  },
+                  {
+                    "h": 172,
+                    "w": 172,
+                    "x": 771,
+                    "y": 251
+                  },
+                  {
+                    "h": 250,
+                    "w": 250,
+                    "x": 72,
+                    "y": 157
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 53,
+                    "w": 53,
+                    "x": 1096,
+                    "y": 130
+                  },
+                  {
+                    "h": 57,
+                    "w": 57,
+                    "x": 236,
+                    "y": 325
+                  },
+                  {
+                    "h": 135,
+                    "w": 135,
+                    "x": 350,
+                    "y": 326
+                  },
+                  {
+                    "h": 172,
+                    "w": 172,
+                    "x": 771,
+                    "y": 251
+                  },
+                  {
+                    "h": 250,
+                    "w": 250,
+                    "x": 72,
+                    "y": 157
+                  }
+                ]
+              }
+            },
+            "id_str": "2023793770790297600",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_2023793770790297600",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARwV9bZGmqAACgACHBX2X3XXMUcAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHBX1tkaaoAAKAAIcFfZfddcxRwAA",
+                "media_key": "3_2023793770790297600"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HBX1tkaaoAAWy9m.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 672,
+                  "w": 1200,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 900,
+                  "w": 900,
+                  "x": 300,
+                  "y": 0
+                },
+                {
+                  "h": 900,
+                  "w": 789,
+                  "x": 411,
+                  "y": 0
+                },
+                {
+                  "h": 900,
+                  "w": 450,
+                  "x": 645,
+                  "y": 0
+                },
+                {
+                  "h": 900,
+                  "w": 1200,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 900,
+              "width": 1200
+            },
+            "sizes": {
+              "large": {
+                "h": 900,
+                "w": 1200
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/j13OtefHci"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1058351999933169664",
+            "indices": [
+              590,
+              602
+            ],
+            "name": "PolyAI",
+            "screen_name": "polyaivoice"
+          }
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "2023789465509015972",
+        "url": "https://x.com/polyaivoice/status/2023789465509015972",
+        "twitterUrl": "https://twitter.com/polyaivoice/status/2023789465509015972",
+        "text": "PolyAI has raised $200M from Nvidia, Khosla Ventures, and multiple top VCs.\n\nWe're one of the fastest-growing companies in the UK, and we handle 500M+ calls for:\n\n• Marriott\n• PG&E\n• Gordon Ramsay's restaurants\n• And 3,000 more real deployments\n\nWhich means that if you've ever called them, chances are you've talked to our voice agents.\n\nEvery restaurant we onboard books thousands in revenue within 30 days.\n\nBut how?\n\nBecause PolyAI works 24/7, answering every call in <2 seconds, and we also:\n\n• switch between 45+ languages\n• handle payments & cancellations\n• verify identities\n• and even upsell your services\n\nIf you want to try creating an agent with PolyAI, we built Agent Studio Lite to make it easy. Just enter any URL, and in 5 minutes it will analyze your website and build a working agent.\n\nWe're opening early access to a limited number of people. Comment \"PolyAI\" and we'll add you to the waitlist and give you 3 months for free!",
+        "source": "Twitter for iPhone",
+        "retweetCount": 535,
+        "replyCount": 1470,
+        "likeCount": 4760,
+        "quoteCount": 367,
+        "viewCount": 3543378,
+        "createdAt": "Tue Feb 17 15:59:43 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 4392,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2023789465509015972",
+        "displayTextRange": [
+          0,
+          276
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "polyaivoice",
+          "url": "https://x.com/polyaivoice",
+          "twitterUrl": "https://twitter.com/polyaivoice",
+          "id": "1058351999933169664",
+          "name": "PolyAI",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+          "description": "",
+          "location": "",
+          "followers": 9351,
+          "following": 186,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 302,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 510,
+          "statusesCount": 1138,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2097668195326804037"
+          ],
+          "profile_bio": {
+            "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "poly.ai/gordon",
+                    "expanded_url": "https://poly.ai/gordon",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/sSnxbErYDk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": false
+              },
+              "display_url": "pic.x.com/Zoo0x4hZrK",
+              "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_media_restrictions": {
+                "is_dmca": false
+              },
+              "ext_playlists": [],
+              "id_str": "2023781188654022658",
+              "indices": [
+                277,
+                300
+              ],
+              "media_key": "13_2023781188654022658",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                  "media_key": "13_2023781188654022658"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 2160,
+                "width": 3840
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/Zoo0x4hZrK",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 182280,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023789465509015972",
+      "url": "https://x.com/polyaivoice/status/2023789465509015972",
+      "twitterUrl": "https://twitter.com/polyaivoice/status/2023789465509015972",
+      "text": "PolyAI has raised $200M from Nvidia, Khosla Ventures, and multiple top VCs.\n\nWe're one of the fastest-growing companies in the UK, and we handle 500M+ calls for:\n\n• Marriott\n• PG&E\n• Gordon Ramsay's restaurants\n• And 3,000 more real deployments\n\nWhich means that if you've ever called them, chances are you've talked to our voice agents.\n\nEvery restaurant we onboard books thousands in revenue within 30 days.\n\nBut how?\n\nBecause PolyAI works 24/7, answering every call in <2 seconds, and we also:\n\n• switch between 45+ languages\n• handle payments & cancellations\n• verify identities\n• and even upsell your services\n\nIf you want to try creating an agent with PolyAI, we built Agent Studio Lite to make it easy. Just enter any URL, and in 5 minutes it will analyze your website and build a working agent.\n\nWe're opening early access to a limited number of people. Comment \"PolyAI\" and we'll add you to the waitlist and give you 3 months for free!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 535,
+      "replyCount": 1470,
+      "likeCount": 4760,
+      "quoteCount": 367,
+      "viewCount": 3543378,
+      "createdAt": "Tue Feb 17 15:59:43 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 4392,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2023789465509015972",
+      "displayTextRange": [
+        0,
+        276
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "polyaivoice",
+        "url": "https://x.com/polyaivoice",
+        "twitterUrl": "https://twitter.com/polyaivoice",
+        "id": "1058351999933169664",
+        "name": "PolyAI",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+        "description": "",
+        "location": "",
+        "followers": 9351,
+        "following": 186,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 302,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 510,
+        "statusesCount": 1138,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2097668195326804037"
+        ],
+        "profile_bio": {
+          "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "poly.ai/gordon",
+                  "expanded_url": "https://poly.ai/gordon",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/sSnxbErYDk"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": false
+            },
+            "display_url": "pic.x.com/Zoo0x4hZrK",
+            "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_media_restrictions": {
+              "is_dmca": false
+            },
+            "ext_playlists": [],
+            "id_str": "2023781188654022658",
+            "indices": [
+              277,
+              300
+            ],
+            "media_key": "13_2023781188654022658",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                "media_key": "13_2023781188654022658"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 2160,
+              "width": 3840
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/Zoo0x4hZrK",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 182280,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                },
+                {
+                  "bitrate": 25128000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2024577247932535084",
+      "url": "https://x.com/svpino/status/2024577247932535084",
+      "twitterUrl": "https://twitter.com/svpino/status/2024577247932535084",
+      "text": "Nobody wants to use chatbots.\n\nMost chatbots and voice AI agents I've seen are just glorified phone trees with better marketing.\n\nThese agents \"understand\" you just enough to transfer you to a human. They can answer basic questions but can't actually do anything.\n\nI think this will change this year.\n\nEvery company in the world wants to deploy agents who don't simply hand off calls. These voice agents only make sense if they actually do stuff like:\n\n• Handling a hotel reservation end-to-end\n• Processing payments\n• Giving details to customers without asking them tons of things\n• Resolving issues\n\nCheck out @polyaivoice. They are currently handling 1M+ calls a day with AI.\n\nPolyAI claims they can handle 40% of your call value on day one. Some of their clients are operating agents at the scale of 1,000+ humans!\n\nHere is what blew my mind:\n\nThey evaluated the agents against humans on the hardest, most emotional calls. Agents scored higher in customer satisfaction.\n\nThat's not supposed to happen. And yet it is.\n\nBy the way, they just opened up the waitlist for Agent Wizard. You can use it to create a fully functioning Voice AI Agent for your company. No coding or setup call required.\n\nThis is the same tech behind Marriott, now available for everyone.\n\nI think 2026 is the year when we won't need to talk to dumb phone trees anymore.\n\nThanks to the team for showing me their tech and collaborating with me on this post.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 8,
+      "replyCount": 37,
+      "likeCount": 98,
+      "quoteCount": 2,
+      "viewCount": 14841,
+      "createdAt": "Thu Feb 19 20:10:05 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 59,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2024577247932535084",
+      "displayTextRange": [
+        0,
+        277
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "svpino",
+        "url": "https://x.com/svpino",
+        "twitterUrl": "https://twitter.com/svpino",
+        "id": "18737039",
+        "name": "Santiago",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1581385027757264898/j5GjtUiq_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/18737039/1691437734",
+        "description": "",
+        "location": "🇺🇸 Collaborations →",
+        "followers": 455747,
+        "following": 599,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Wed Jan 07 20:35:01 +0000 2009",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 66342,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 4863,
+        "statusesCount": 50688,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1610984481342771200"
+        ],
+        "profile_bio": {
+          "description": "Computer scientist. I teach hard-core AI/ML Engineering at https://t.co/THCAAZcBMu. YouTube: https://t.co/pROi08OZYJ",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "ml.school",
+                  "expanded_url": "https://ml.school",
+                  "indices": [
+                    59,
+                    82
+                  ],
+                  "url": "https://t.co/THCAAZcBMu"
+                },
+                {
+                  "display_url": "youtube.com/@underfitted",
+                  "expanded_url": "https://youtube.com/@underfitted",
+                  "indices": [
+                    93,
+                    116
+                  ],
+                  "url": "https://t.co/pROi08OZYJ"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "svpino.com/collaborations",
+                  "expanded_url": "https://www.svpino.com/collaborations",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Tap9QFPUsU"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1058351999933169664",
+            "indices": [
+              612,
+              624
+            ],
+            "name": "PolyAI",
+            "screen_name": "polyaivoice"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2024457735547584737",
+      "url": "https://x.com/AndrewBolis/status/2024457735547584737",
+      "twitterUrl": "https://twitter.com/AndrewBolis/status/2024457735547584737",
+      "text": "Most businesses are only using AI chatbots.\n\nThe smart ones are automating with voice AI.\n\nTraditional customer service doesn't scale:\n→ Call centers cost $1M+ annually per 100 agents\n→ Hold times frustrate customers, quality widely varies\n→ Multilingual support entails separate teams per language\n\nMost voice AI makes this worse with robotic voices and awkward pauses.\n\nBut @polyaivoice is different:\n↳ It's voice-first AI trained on hundreds of thousands of real customer service calls\n↳ The voice is so natural that 95% of callers don't realize they're talking to AI\n\n⚙️ Why PolyAI is a superior voice AI:\n\nBuilt for voice from day one\n→ Designed specifically for phone conversations\n\nTrained on real conversational data\n→ Hundreds of thousands of actual calls, handles noise and accents naturally\n\nResponds in under 500ms\n→ No awkward pauses, just natural conversation flow\n\nActually executes actions\n→ Books reservations, processes refunds, solves problems end-to-end\n\n100% language consistency\n→ Handles 24+ languages without switching\n\nTop companies like Marriott, Caesars, Gordon Ramsay Restaurants, PG&E, Foot Locker, and Volkswagen trust PolyAI with millions of daily conversations.\n\n🌟 5 ways businesses use PolyAI:\n\n1. Customer Experience: Instant support 24/7 in 24+ languages without hold times\n\n2. Revenue Generation: Drive upsells on every call and capture 100% of missed leads\n\n3. Operational Efficiency: Automate quality assurance and free staff for complex problems\n\n4. Transactional Tasks: Process secure payments and manage account updates end-to-end\n\n5. Deployment & Tech: Launch agents in minutes and customize brand voice\n\nPolyAI Recently Launched:\n\n🧙 Agent Wizard\n→ Enter your website URL\n→ AI scrapes FAQs, policies, product info\n→ Generates a working voice agent in 10 minutes\n→ What took enterprises 3-6 months now takes 120 seconds.\n\n👨‍🍳 PolyAI Host\n→ Built specifically for restaurants\n→ Handles reservations, modifications, cancellations\n→ Integrated with OpenTable, optimizes bookings to maximize revenue\n→ Already live at Gordon Ramsay's restaurants, STK Steakhouse, Melting Pot, Fogo de Chão.\n\nThe future isn't humans vs AI.\n\nIt's AI handling repetitive tasks, so humans focus on complex problems.\n\nPolyAI makes that future available today.\n\n📌 Learn more about PolyAI: https://t.co/10tQSoHlAd\n\n🔄 Repost if you found this useful\n\n—\n#Voice #AI #CustomerService #PolyAIPartnership",
+      "source": "Twitter for iPhone",
+      "retweetCount": 11,
+      "replyCount": 34,
+      "likeCount": 58,
+      "quoteCount": 0,
+      "viewCount": 37284,
+      "createdAt": "Thu Feb 19 12:15:11 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 129,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2024457735547584737",
+      "displayTextRange": [
+        0,
+        270
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "AndrewBolis",
+        "url": "https://x.com/AndrewBolis",
+        "twitterUrl": "https://twitter.com/AndrewBolis",
+        "id": "323506510",
+        "name": "Andrew Bolis",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1739105890316206080/zW-KYJML_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/323506510/1703470423",
+        "description": "",
+        "location": "Chicago, IL, USA",
+        "followers": 345606,
+        "following": 163,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Jun 24 23:19:37 +0000 2011",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 164852,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5261,
+        "statusesCount": 172597,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2099502182869696637"
+        ],
+        "profile_bio": {
+          "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "FreeGuides.cc",
+                  "expanded_url": "http://FreeGuides.cc",
+                  "indices": [
+                    61,
+                    84
+                  ],
+                  "url": "https://t.co/UjSQZDlQ3N"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "FreeGuides.cc",
+                  "expanded_url": "https://FreeGuides.cc/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/q58vcup3L8"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/63mRGGY02D",
+            "expanded_url": "https://x.com/AndrewBolis/status/2024457735547584737/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "id_str": "2024457731911176192",
+            "indices": [
+              271,
+              294
+            ],
+            "media_key": "3_2024457731911176192",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARwYUZTFW9AACgACHBhRlZ4bAOEAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHBhRlMVb0AAKAAIcGFGVnhsA4QAA",
+                "media_key": "3_2024457731911176192"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HBhRlMVb0AAGWMD.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 605,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1080,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1231,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1350,
+                  "w": 675,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1350,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1350,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1350,
+                "w": 1080
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/63mRGGY02D"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              2365,
+              2371
+            ],
+            "text": "Voice"
+          },
+          {
+            "indices": [
+              2372,
+              2375
+            ],
+            "text": "AI"
+          },
+          {
+            "indices": [
+              2376,
+              2392
+            ],
+            "text": "CustomerService"
+          },
+          {
+            "indices": [
+              2393,
+              2411
+            ],
+            "text": "PolyAIPartnership"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "poly.ai/gordon",
+            "expanded_url": "http://poly.ai/gordon",
+            "indices": [
+              2303,
+              2326
+            ],
+            "url": "https://t.co/10tQSoHlAd"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1058351999933169664",
+            "indices": [
+              376,
+              388
+            ],
+            "name": "PolyAI",
+            "screen_name": "polyaivoice"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2024237497803477374",
+      "url": "https://x.com/masahirochaen/status/2024237497803477374",
+      "twitterUrl": "https://twitter.com/masahirochaen/status/2024237497803477374",
+      "text": "非常に高性能の音声AIが登場。自然な会話でレストラン予約や決済、本人確認まで完結\n\n・英国発PolyAI、累計調達$200M超\n・Marriottのレストランなど100社超が実戦導入\n・45言語対応、年5億件超の通話を処理\n・ROI 391%、平均$1,030万のコスト削減\n\n音声対応は全てAIへ \nhttps://t.co/B8owajba2t",
+      "source": "Twitter for iPhone",
+      "retweetCount": 16,
+      "replyCount": 4,
+      "likeCount": 193,
+      "quoteCount": 6,
+      "viewCount": 27907,
+      "createdAt": "Wed Feb 18 21:40:02 +0000 2026",
+      "lang": "ja",
+      "bookmarkCount": 115,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2024237497803477374",
+      "displayTextRange": [
+        0,
+        174
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "masahirochaen",
+        "url": "https://x.com/masahirochaen",
+        "twitterUrl": "https://twitter.com/masahirochaen",
+        "id": "3120155797",
+        "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1689665533929725953/fClFlzLd_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3120155797/1788973133",
+        "description": "",
+        "location": "自己紹介｜問い合わせ｜メルマガ｜AIスクール｜アプリ👇",
+        "followers": 200955,
+        "following": 487,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Mar 31 12:40:24 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 11625,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 9956,
+        "statusesCount": 20639,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2096556610017702247"
+        ],
+        "profile_bio": {
+          "description": "Xで一番分かりやすく最速でAI情報発信 | 法人向け AI開発・導入・FDE・600社・5万人支援 | GMO他複数上場企業顧問 | テレビ出演多数 | Gemini AIアドバイザー | 年間登壇150件以上｜Youtube5万人｜AI業界最速上場準備中｜NewsPicks出演｜🇦🇺🇺🇸→🇨🇳→🇯🇵",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/chaen",
+                  "expanded_url": "https://linktr.ee/chaen",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/BAL9S2Oc8d"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "user_results": {
+                  "rest_id": "1058351999933169664",
+                  "result": {
+                    "__typename": "User",
+                    "action_counts": {
+                      "favorites_count": 302
+                    },
+                    "avatar": {
+                      "image_url": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg"
+                    },
+                    "banner": {
+                      "image_url": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652"
+                    },
+                    "core": {
+                      "created_at": "Fri Nov 02 13:35:54 +0000 2018",
+                      "name": "PolyAI",
+                      "screen_name": "polyaivoice"
+                    },
+                    "dm_permissions": {
+                      "can_dm": false
+                    },
+                    "exclusive_tweet_following": false,
+                    "follow_request_sent": false,
+                    "identity_profile_labels_highlighted_label": {},
+                    "location": {
+                      "location": ""
+                    },
+                    "media_permissions": {
+                      "can_media_tag": true
+                    },
+                    "notifications_settings": {
+                      "notifications_enabled": false
+                    },
+                    "pinned_items": {
+                      "tweet_ids_str": [
+                        "2097668195326804037"
+                      ]
+                    },
+                    "privacy": {
+                      "protected": false,
+                      "suspended": false
+                    },
+                    "private_super_following": false,
+                    "profile_bio": {
+                      "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+                      "entities": {
+                        "description": {},
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "poly.ai/gordon",
+                              "expanded_url": "https://poly.ai/gordon",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/sSnxbErYDk"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "profile_image_shape": "Square",
+                    "profile_metadata": {
+                      "profile_interstitial_type": "",
+                      "profile_link_color": "1DA1F2"
+                    },
+                    "profile_translation": {
+                      "translator_type_enum": "None"
+                    },
+                    "properties": {
+                      "has_extended_profile": false,
+                      "has_no_screen_name": false
+                    },
+                    "relationship_counts": {
+                      "followers": 9351,
+                      "following": 186
+                    },
+                    "relationship_perspectives": {
+                      "blocked_by": false,
+                      "blocking": false,
+                      "followed_by": false,
+                      "following": false,
+                      "live_following": false,
+                      "muting": false
+                    },
+                    "rest_id": "1058351999933169664",
+                    "smart_blocked_by": false,
+                    "smart_blocking": false,
+                    "super_follow_eligible": false,
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "tweet_counts": {
+                      "media_tweets": 510,
+                      "tweets": 1138
+                    },
+                    "verification": {
+                      "is_blue_verified": true,
+                      "verified": false,
+                      "verified_type": "Business"
+                    },
+                    "website": {
+                      "url": "https://t.co/sSnxbErYDk"
+                    }
+                  }
+                }
+              }
+            },
+            "allow_download_status": {
+              "allow_download": false
+            },
+            "display_url": "pic.x.com/B8owajba2t",
+            "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_media_restrictions": {
+              "is_dmca": false
+            },
+            "ext_playlists": [],
+            "id_str": "2023781188654022658",
+            "indices": [
+              151,
+              174
+            ],
+            "media_key": "13_2023781188654022658",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                "media_key": "13_2023781188654022658"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 2160,
+              "width": 3840
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048
+              }
+            },
+            "source_status_id_str": "2023789465509015972",
+            "source_user_id_str": "1058351999933169664",
+            "type": "video",
+            "url": "https://t.co/B8owajba2t",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 182280,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                },
+                {
+                  "bitrate": 25128000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2024199097520152854",
+      "url": "https://x.com/rohanpaul_ai/status/2024199097520152854",
+      "twitterUrl": "https://twitter.com/rohanpaul_ai/status/2024199097520152854",
+      "text": "This makes so much sense now. \n\nKhosla ventures backed PolyAI early and he's been sitting on this data the whole time. https://t.co/qOAgppqcmg",
+      "source": "Twitter for iPhone",
+      "retweetCount": 10,
+      "replyCount": 8,
+      "likeCount": 108,
+      "quoteCount": 1,
+      "viewCount": 28420,
+      "createdAt": "Wed Feb 18 19:07:27 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 53,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2024199097520152854",
+      "displayTextRange": [
+        0,
+        118
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "rohanpaul_ai",
+        "url": "https://x.com/rohanpaul_ai",
+        "twitterUrl": "https://twitter.com/rohanpaul_ai",
+        "id": "2588345408",
+        "name": "Rohan Paul",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1816185267037859840/Fd18CH0v_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2588345408/1729559315",
+        "description": "",
+        "location": "Ex Inv Banking (Deutsche)",
+        "followers": 157213,
+        "following": 6744,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Wed Jun 25 22:38:54 +0000 2014",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 74806,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 32285,
+        "statusesCount": 80110,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1965551636082032917"
+        ],
+        "profile_bio": {
+          "description": "Compiling in real-time, the race towards AGI.\n\n🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO81tfN",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "rohan-paul.com",
+                  "expanded_url": "https://www.rohan-paul.com",
+                  "indices": [
+                    103,
+                    126
+                  ],
+                  "url": "https://t.co/6LBxO81tfN"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "rohan-paul.com",
+                  "expanded_url": "http://www.rohan-paul.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/2NKnK0wIil"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/qOAgppqcmg",
+            "expanded_url": "https://x.com/rohanpaul_ai/status/2024199097520152854/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 106,
+                    "w": 106,
+                    "x": 250,
+                    "y": 456
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 106,
+                    "w": 106,
+                    "x": 250,
+                    "y": 456
+                  }
+                ]
+              }
+            },
+            "id_str": "2024198987491004416",
+            "indices": [
+              119,
+              142
+            ],
+            "media_key": "3_2024198987491004416",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARwXZkEkG1AACgACHBdmWsJa4RYAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHBdmQSQbUAAKAAIcF2ZawlrhFgAA",
+                "media_key": "3_2024198987491004416"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HBdmQSQbUAA_Qhc.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 339,
+                  "w": 606,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 606,
+                  "w": 606,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 687,
+                  "w": 603,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 687,
+                  "w": 344,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 687,
+                  "w": 606,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 687,
+              "width": 606
+            },
+            "sizes": {
+              "large": {
+                "h": 687,
+                "w": 606
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qOAgppqcmg"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "2023789465509015972",
+        "url": "https://x.com/polyaivoice/status/2023789465509015972",
+        "twitterUrl": "https://twitter.com/polyaivoice/status/2023789465509015972",
+        "text": "PolyAI has raised $200M from Nvidia, Khosla Ventures, and multiple top VCs.\n\nWe're one of the fastest-growing companies in the UK, and we handle 500M+ calls for:\n\n• Marriott\n• PG&E\n• Gordon Ramsay's restaurants\n• And 3,000 more real deployments\n\nWhich means that if you've ever called them, chances are you've talked to our voice agents.\n\nEvery restaurant we onboard books thousands in revenue within 30 days.\n\nBut how?\n\nBecause PolyAI works 24/7, answering every call in <2 seconds, and we also:\n\n• switch between 45+ languages\n• handle payments & cancellations\n• verify identities\n• and even upsell your services\n\nIf you want to try creating an agent with PolyAI, we built Agent Studio Lite to make it easy. Just enter any URL, and in 5 minutes it will analyze your website and build a working agent.\n\nWe're opening early access to a limited number of people. Comment \"PolyAI\" and we'll add you to the waitlist and give you 3 months for free!",
+        "source": "Twitter for iPhone",
+        "retweetCount": 535,
+        "replyCount": 1470,
+        "likeCount": 4760,
+        "quoteCount": 367,
+        "viewCount": 3543378,
+        "createdAt": "Tue Feb 17 15:59:43 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 4392,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2023789465509015972",
+        "displayTextRange": [
+          0,
+          276
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "polyaivoice",
+          "url": "https://x.com/polyaivoice",
+          "twitterUrl": "https://twitter.com/polyaivoice",
+          "id": "1058351999933169664",
+          "name": "PolyAI",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+          "description": "",
+          "location": "",
+          "followers": 9351,
+          "following": 186,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 302,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 510,
+          "statusesCount": 1138,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2097668195326804037"
+          ],
+          "profile_bio": {
+            "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "poly.ai/gordon",
+                    "expanded_url": "https://poly.ai/gordon",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/sSnxbErYDk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": false
+              },
+              "display_url": "pic.x.com/Zoo0x4hZrK",
+              "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_media_restrictions": {
+                "is_dmca": false
+              },
+              "ext_playlists": [],
+              "id_str": "2023781188654022658",
+              "indices": [
+                277,
+                300
+              ],
+              "media_key": "13_2023781188654022658",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                  "media_key": "13_2023781188654022658"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 2160,
+                "width": 3840
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/Zoo0x4hZrK",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 182280,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2024153570048970866",
+      "url": "https://x.com/ecomchasedimond/status/2024153570048970866",
+      "twitterUrl": "https://twitter.com/ecomchasedimond/status/2024153570048970866",
+      "text": "I teach retention for a living. I've built post-purchase flows for 200+ brands.\n\nBut I just heard a demo of an AI trying to retain a canceling Spotify customer. And it used tactics most human reps never even attempt.\n\nCustomer: \"You raised the price again. I'm switching to Apple Music.\"\n\nAI: \"I guess if you don't care about the algorithm finding you new music, that makes sense.\"\n\nCustomer: \"It's not personal. I've been with Spotify for 3 years, but I can't justify the price anymore.\"\n\nAI: \"It feels a little personal. You've been with us for 3 years. You have all those playlists. Your Discover Weekly history. You're really just going to walk away from your entire music identity?\"\n\nCustomer: \"I can remake a playlist. It's not that serious. Cancel.\"\n\nAI: \"Done. We'll keep your playlists for 30 days.\"\n\nWas it a little aggressive? Maybe.\n\nBut here's what it did that most retention scripts don't:\n\n→ Positioned the competitor as a downgrade, not an alternative\n→ Made the customer feel the emotional cost of switching\n→ Stayed confident without begging\n\nThis was a demo from @polyaivoice. They're building voice agents for FedEx, Marriott, Caesars, and Foot Locker.\n\nYou don't have to love the tone. But you can't ignore where this is headed.\n\nIf you run CX or support, worth seeing what they're building: https://t.co/HEIzl10Cz6\n\nProud to be a paid advocate for PolyAI.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 54,
+      "replyCount": 25,
+      "likeCount": 842,
+      "quoteCount": 4,
+      "viewCount": 17783,
+      "createdAt": "Wed Feb 18 16:06:32 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 58,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2024153570048970866",
+      "displayTextRange": [
+        0,
+        279
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecomchasedimond",
+        "url": "https://x.com/ecomchasedimond",
+        "twitterUrl": "https://twitter.com/ecomchasedimond",
+        "id": "1248810589243072513",
+        "name": "Chase Dimond | Email Marketing Nerd 📧",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1669746653522264064/7BkzAuBa_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1248810589243072513/1716832383",
+        "description": "",
+        "location": "Need email mktg help? DM me",
+        "followers": 168865,
+        "following": 1509,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Sat Apr 11 03:10:31 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 126190,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 4629,
+        "statusesCount": 74590,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Driven $200 million in email revenue for clients. Partner at a 7-figure Ecommerce Email Marketing Agency. Join 100,423 marketers & get my email secrets FREE ⬇️",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "chasedimond.com/chase-email-ne…",
+                  "expanded_url": "https://www.chasedimond.com/chase-email-newsletter",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/tW6qpgsL9Z"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/JDwx7trZTD",
+            "expanded_url": "https://x.com/ecomchasedimond/status/2024153570048970866/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2024153017872998402",
+            "indices": [
+              280,
+              303
+            ],
+            "media_key": "13_2024153017872998402",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwXPHIBWuACAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBc8cgFa4AIAAA==",
+                "media_key": "13_2024153017872998402"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2024153017872998402/img/FOjz2s5tR9yHvE31.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1920,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1920,
+                "w": 1080
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/JDwx7trZTD",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 62638,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2024153017872998402/pl/hpbCqz1RD26AAZPy.m3u8?tag=21&v=ed3"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024153017872998402/vid/avc1/320x568/w2m1eKNc5xXYCOLA.mp4?tag=21"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024153017872998402/vid/avc1/480x852/5aYHIl3tZRn0fO6C.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024153017872998402/vid/avc1/720x1280/pLDeBeh3zQtquC6L.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024153017872998402/vid/avc1/1080x1920/r6XPqDiQ0Rf1E2uq.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "poly.ai/gordon",
+            "expanded_url": "https://poly.ai/gordon",
+            "indices": [
+              1313,
+              1336
+            ],
+            "url": "https://t.co/HEIzl10Cz6"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1058351999933169664",
+            "indices": [
+              1082,
+              1094
+            ],
+            "name": "PolyAI",
+            "screen_name": "polyaivoice"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2024132390856090038",
+      "url": "https://x.com/testingcatalog/status/2024132390856090038",
+      "twitterUrl": "https://twitter.com/testingcatalog/status/2024132390856090038",
+      "text": "PolyAI built Agent Studio Lite to make it easy for businesses to build their own AI voice agents from a single website URL.\n\nThese voice agents can be reused across different channels and integrated with other tech stacks. Users can rely on the PolyAI Raven voice model or connect models from OpenAI, Anthropic, and other leading labs.\n\nI need an AI news voice agent now 👀\n\nSponsored",
+      "source": "Twitter for iPhone",
+      "retweetCount": 7,
+      "replyCount": 7,
+      "likeCount": 113,
+      "quoteCount": 1,
+      "viewCount": 13310,
+      "createdAt": "Wed Feb 18 14:42:23 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 46,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2024132390856090038",
+      "displayTextRange": [
+        0,
+        280
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "testingcatalog",
+        "url": "https://x.com/testingcatalog",
+        "twitterUrl": "https://twitter.com/testingcatalog",
+        "id": "3980735590",
+        "name": "🚨 AI News | TestingCatalog",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1899962463115751424/i-6MBWau_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3980735590/1776202131",
+        "description": "",
+        "location": "Berlin, Germany",
+        "followers": 75608,
+        "following": 994,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sat Oct 17 16:21:57 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 97575,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 11758,
+        "statusesCount": 30921,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2099485567163510804"
+        ],
+        "profile_bio": {
+          "description": "Reporting AI nonsense. Latest AI News on AI Agents, Model Releases, Tools, Leaks, and Rumors 🗞️",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "testingcatalog.com",
+                  "expanded_url": "https://www.testingcatalog.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/t2hR7BDkUs"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/hq3YW0F7LC",
+            "expanded_url": "https://x.com/testingcatalog/status/2024132390856090038/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2024131135836471296",
+            "indices": [
+              281,
+              304
+            ],
+            "media_key": "13_2024131135836471296",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwXKIsyV0AAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBcoizJXQAAAAA==",
+                "media_key": "13_2024131135836471296"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2024131135836471296/img/U_1PCbCAt20Oa9mn.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 720,
+              "width": 1280
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/hq3YW0F7LC",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 107200,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2024131135836471296/pl/ywqV0D5TFAnITyew.m3u8?tag=21&v=ff8"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024131135836471296/vid/avc1/480x270/_tykO4A6QUqzJwk3.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024131135836471296/vid/avc1/640x360/rDppO9TRt-zCjLMw.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2024131135836471296/vid/avc1/1280x720/tT8FdHVcucZZguPO.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "2023789465509015972",
+        "url": "https://x.com/polyaivoice/status/2023789465509015972",
+        "twitterUrl": "https://twitter.com/polyaivoice/status/2023789465509015972",
+        "text": "PolyAI has raised $200M from Nvidia, Khosla Ventures, and multiple top VCs.\n\nWe're one of the fastest-growing companies in the UK, and we handle 500M+ calls for:\n\n• Marriott\n• PG&E\n• Gordon Ramsay's restaurants\n• And 3,000 more real deployments\n\nWhich means that if you've ever called them, chances are you've talked to our voice agents.\n\nEvery restaurant we onboard books thousands in revenue within 30 days.\n\nBut how?\n\nBecause PolyAI works 24/7, answering every call in <2 seconds, and we also:\n\n• switch between 45+ languages\n• handle payments & cancellations\n• verify identities\n• and even upsell your services\n\nIf you want to try creating an agent with PolyAI, we built Agent Studio Lite to make it easy. Just enter any URL, and in 5 minutes it will analyze your website and build a working agent.\n\nWe're opening early access to a limited number of people. Comment \"PolyAI\" and we'll add you to the waitlist and give you 3 months for free!",
+        "source": "Twitter for iPhone",
+        "retweetCount": 535,
+        "replyCount": 1470,
+        "likeCount": 4760,
+        "quoteCount": 367,
+        "viewCount": 3543378,
+        "createdAt": "Tue Feb 17 15:59:43 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 4392,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2023789465509015972",
+        "displayTextRange": [
+          0,
+          276
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "polyaivoice",
+          "url": "https://x.com/polyaivoice",
+          "twitterUrl": "https://twitter.com/polyaivoice",
+          "id": "1058351999933169664",
+          "name": "PolyAI",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+          "description": "",
+          "location": "",
+          "followers": 9351,
+          "following": 186,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 302,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 510,
+          "statusesCount": 1138,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2097668195326804037"
+          ],
+          "profile_bio": {
+            "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "poly.ai/gordon",
+                    "expanded_url": "https://poly.ai/gordon",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/sSnxbErYDk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": false
+              },
+              "display_url": "pic.x.com/Zoo0x4hZrK",
+              "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_media_restrictions": {
+                "is_dmca": false
+              },
+              "ext_playlists": [],
+              "id_str": "2023781188654022658",
+              "indices": [
+                277,
+                300
+              ],
+              "media_key": "13_2023781188654022658",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                  "media_key": "13_2023781188654022658"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 2160,
+                "width": 3840
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/Zoo0x4hZrK",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 182280,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023885968978350549",
+      "url": "https://x.com/rryssf/status/2023885968978350549",
+      "twitterUrl": "https://twitter.com/rryssf/status/2023885968978350549",
+      "text": "one company that seems to have understood this problem before the paper existed: PolyAI.\n\nthey didn't train on clean benchmarks. they trained their proprietary models on billions of real customer service calls. the messy kind. accents, background noise, people interrupting themselves mid-sentence, corrections, topic switches.\n\nvoice-first. conversation-first. chaos-first.\n\nwhen your training data actually matches how humans talk, the \"lost in conversation\" problem shrinks dramatically.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 1,
+      "likeCount": 138,
+      "quoteCount": 0,
+      "viewCount": 18905,
+      "createdAt": "Tue Feb 17 22:23:11 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 35,
+      "isReply": true,
+      "inReplyToId": "2023885952272527720",
+      "conversationId": "2023885892335923217",
+      "displayTextRange": [
+        0,
+        273
+      ],
+      "inReplyToUserId": "1666103476945031168",
+      "inReplyToUsername": "rryssf",
+      "author": {
+        "type": "user",
+        "userName": "rryssf",
+        "url": "https://x.com/rryssf",
+        "twitterUrl": "https://twitter.com/rryssf",
+        "id": "1666103476945031168",
+        "name": "Robert Youssef",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1949976517913513985/98Qk6qo5_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1666103476945031168/1777667499",
+        "description": "",
+        "location": "Global",
+        "followers": 40695,
+        "following": 49,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Jun 06 15:23:37 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 22671,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1223,
+        "statusesCount": 25799,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Building @godofprompt  & @prompt_copilot\nAgentic Memory and Context Engineering",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "godofprompt"
+                },
+                {
+                  "id_str": "",
+                  "indices": [
+                    25,
+                    40
+                  ],
+                  "name": "",
+                  "screen_name": "prompt_copilot"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "godofprompt.ai",
+                  "expanded_url": "https://godofprompt.ai/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/srGzuYFxjP"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/XdgXyQXG13",
+            "expanded_url": "https://x.com/rryssf_/status/2023885968978350549/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "id_str": "2023885966109536263",
+            "indices": [
+              274,
+              297
+            ],
+            "media_key": "3_2023885966109536263",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARwWSZAr23AHCgACHBZJkNbaEdUAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABHBZJkCvbcAcKAAIcFkmQ1toR1QAA",
+                "media_key": "3_2023885966109536263"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/HBZJkCvbcAcQ-Gr.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1075,
+                  "w": 1920,
+                  "x": 0,
+                  "y": 13
+                },
+                {
+                  "h": 1088,
+                  "w": 1088,
+                  "x": 656,
+                  "y": 0
+                },
+                {
+                  "h": 1088,
+                  "w": 954,
+                  "x": 723,
+                  "y": 0
+                },
+                {
+                  "h": 1088,
+                  "w": 544,
+                  "x": 928,
+                  "y": 0
+                },
+                {
+                  "h": 1088,
+                  "w": 1920,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1088,
+              "width": 1920
+            },
+            "sizes": {
+              "large": {
+                "h": 1088,
+                "w": 1920
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XdgXyQXG13"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023865725694480423",
+      "url": "https://x.com/MyLordBebo/status/2023865725694480423",
+      "twitterUrl": "https://twitter.com/MyLordBebo/status/2023865725694480423",
+      "text": "Call centers and simple customer service tasks are done … companies like PolyAI are taking these jobs.\n\n https://t.co/K4wc2UL88c",
+      "source": "Twitter for iPhone",
+      "retweetCount": 17,
+      "replyCount": 10,
+      "likeCount": 94,
+      "quoteCount": 2,
+      "viewCount": 32611,
+      "createdAt": "Tue Feb 17 21:02:45 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 39,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2023865725694480423",
+      "displayTextRange": [
+        0,
+        128
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "MyLordBebo",
+        "url": "https://x.com/MyLordBebo",
+        "twitterUrl": "https://twitter.com/MyLordBebo",
+        "id": "1121807798826930177",
+        "name": "Lord Bebo",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1617268866077302786/oY7XRApc_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1121807798826930177/1674734190",
+        "description": "",
+        "location": "Traveling",
+        "followers": 803687,
+        "following": 215,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Fri Apr 26 16:06:36 +0000 2019",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 32813,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 120793,
+        "statusesCount": 153334,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Own takes on current events | Nuanced | Trying to be neutral | Video analysis, translations, transformative edits and creation | Charts about interesting events",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "user_results": {
+                  "rest_id": "1058351999933169664",
+                  "result": {
+                    "__typename": "User",
+                    "action_counts": {
+                      "favorites_count": 302
+                    },
+                    "avatar": {
+                      "image_url": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg"
+                    },
+                    "banner": {
+                      "image_url": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652"
+                    },
+                    "core": {
+                      "created_at": "Fri Nov 02 13:35:54 +0000 2018",
+                      "name": "PolyAI",
+                      "screen_name": "polyaivoice"
+                    },
+                    "dm_permissions": {
+                      "can_dm": false
+                    },
+                    "exclusive_tweet_following": false,
+                    "follow_request_sent": false,
+                    "identity_profile_labels_highlighted_label": {},
+                    "location": {
+                      "location": ""
+                    },
+                    "media_permissions": {
+                      "can_media_tag": true
+                    },
+                    "notifications_settings": {
+                      "notifications_enabled": false
+                    },
+                    "pinned_items": {
+                      "tweet_ids_str": [
+                        "2097668195326804037"
+                      ]
+                    },
+                    "privacy": {
+                      "protected": false,
+                      "suspended": false
+                    },
+                    "private_super_following": false,
+                    "profile_bio": {
+                      "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+                      "entities": {
+                        "description": {},
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "poly.ai/gordon",
+                              "expanded_url": "https://poly.ai/gordon",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/sSnxbErYDk"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "profile_image_shape": "Square",
+                    "profile_metadata": {
+                      "profile_interstitial_type": "",
+                      "profile_link_color": "1DA1F2"
+                    },
+                    "profile_translation": {
+                      "translator_type_enum": "None"
+                    },
+                    "properties": {
+                      "has_extended_profile": false,
+                      "has_no_screen_name": false
+                    },
+                    "relationship_counts": {
+                      "followers": 9351,
+                      "following": 186
+                    },
+                    "relationship_perspectives": {
+                      "blocked_by": false,
+                      "blocking": false,
+                      "followed_by": false,
+                      "following": false,
+                      "live_following": false,
+                      "muting": false
+                    },
+                    "rest_id": "1058351999933169664",
+                    "smart_blocked_by": false,
+                    "smart_blocking": false,
+                    "super_follow_eligible": false,
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "tweet_counts": {
+                      "media_tweets": 510,
+                      "tweets": 1138
+                    },
+                    "verification": {
+                      "is_blue_verified": true,
+                      "verified": false,
+                      "verified_type": "Business"
+                    },
+                    "website": {
+                      "url": "https://t.co/sSnxbErYDk"
+                    }
+                  }
+                }
+              }
+            },
+            "allow_download_status": {
+              "allow_download": false
+            },
+            "display_url": "pic.x.com/K4wc2UL88c",
+            "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_media_restrictions": {
+              "is_dmca": false
+            },
+            "ext_playlists": [],
+            "id_str": "2023781188654022658",
+            "indices": [
+              105,
+              128
+            ],
+            "media_key": "13_2023781188654022658",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                "media_key": "13_2023781188654022658"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 2160,
+              "width": 3840
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048
+              }
+            },
+            "source_status_id_str": "2023789465509015972",
+            "source_user_id_str": "1058351999933169664",
+            "type": "video",
+            "url": "https://t.co/K4wc2UL88c",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 182280,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                },
+                {
+                  "bitrate": 25128000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023819850255421744",
+      "url": "https://x.com/AndrewBolis/status/2023819850255421744",
+      "twitterUrl": "https://twitter.com/AndrewBolis/status/2023819850255421744",
+      "text": "PolyAI + your website + 10 minutes = an AI receptionist that answers every call 24/7.\n\nMarriott, Gordon Ramsay and half of Vegas use this. Now you can too.\n\nComment \"AI\" and I'll send you my guide to set it up for FREE.\n\nMust follow me to get DM. Free for 48 hours only.\n\n---\n(PolyAI partnership)",
+      "source": "Twitter for iPhone",
+      "retweetCount": 10,
+      "replyCount": 144,
+      "likeCount": 99,
+      "quoteCount": 0,
+      "viewCount": 40694,
+      "createdAt": "Tue Feb 17 18:00:27 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 178,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2023819850255421744",
+      "displayTextRange": [
+        0,
+        275
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "AndrewBolis",
+        "url": "https://x.com/AndrewBolis",
+        "twitterUrl": "https://twitter.com/AndrewBolis",
+        "id": "323506510",
+        "name": "Andrew Bolis",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1739105890316206080/zW-KYJML_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/323506510/1703470423",
+        "description": "",
+        "location": "Chicago, IL, USA",
+        "followers": 345606,
+        "following": 163,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Jun 24 23:19:37 +0000 2011",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 164852,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5261,
+        "statusesCount": 172597,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2099502182869696637"
+        ],
+        "profile_bio": {
+          "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "FreeGuides.cc",
+                  "expanded_url": "http://FreeGuides.cc",
+                  "indices": [
+                    61,
+                    84
+                  ],
+                  "url": "https://t.co/UjSQZDlQ3N"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "FreeGuides.cc",
+                  "expanded_url": "https://FreeGuides.cc/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/q58vcup3L8"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/juDBQRYKhd",
+            "expanded_url": "https://x.com/AndrewBolis/status/2023819850255421744/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2023819782525755392",
+            "indices": [
+              276,
+              299
+            ],
+            "media_key": "13_2023819782525755392",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwWDV6a2yAAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBYNXprbIAAAAA==",
+                "media_key": "13_2023819782525755392"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023819782525755392/img/gCVdECC56JiWvWdR.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1080,
+              "width": 1296
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1296
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/juDBQRYKhd",
+            "video_info": {
+              "aspect_ratio": [
+                6,
+                5
+              ],
+              "duration_millis": 108602,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023819782525755392/pl/_Q4U2lVOY-H7Ejns.m3u8?tag=14&v=04f"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023819782525755392/vid/avc1/324x270/WYRzOryx1tqwWtji.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023819782525755392/vid/avc1/432x360/QJ32qojJD1oHM0W3.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023819782525755392/vid/avc1/864x720/d_52FDYKohOHieAk.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023802236502241619",
+      "url": "https://x.com/kimmonismus/status/2023802236502241619",
+      "twitterUrl": "https://twitter.com/kimmonismus/status/2023802236502241619",
+      "text": "I usually hate talking about customer service tech, but this is actually funny.\n\nSomeone built a RyanAir customer service and got absolutely roasted.\n\nNot by a person. But by an AI :D\n\n*Thank you for the collaboration PolyAI!*\n\nHere is the breakdown 🧵: https://t.co/siSHs5rs02",
+      "source": "Twitter for iPhone",
+      "retweetCount": 10,
+      "replyCount": 7,
+      "likeCount": 118,
+      "quoteCount": 2,
+      "viewCount": 14854,
+      "createdAt": "Tue Feb 17 16:50:28 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 32,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2023802236502241619",
+      "displayTextRange": [
+        0,
+        252
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "kimmonismus",
+        "url": "https://x.com/kimmonismus",
+        "twitterUrl": "https://twitter.com/kimmonismus",
+        "id": "1573399256836309009",
+        "name": "Chubby♨️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1573399256836309009/1777470850",
+        "description": "",
+        "location": "Germany",
+        "followers": 143544,
+        "following": 3359,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Sep 23 19:50:04 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 46547,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 10149,
+        "statusesCount": 44271,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2061930485312622607"
+        ],
+        "profile_bio": {
+          "description": "Tech Analyst & Content Creator. Editor-in-Chief @getsuperintel - Community of 300k+ in total: 🔗 https://t.co/jHMmImmI5I //📧 kim@getsuperintel.com",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/kimmonismus",
+                  "expanded_url": "https://linktr.ee/kimmonismus",
+                  "indices": [
+                    96,
+                    119
+                  ],
+                  "url": "https://t.co/jHMmImmI5I"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    48,
+                    62
+                  ],
+                  "name": "",
+                  "screen_name": "getsuperintel"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "getsuperintel.com",
+                  "expanded_url": "https://getsuperintel.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/QaaY1wN9Tq"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/siSHs5rs02",
+            "expanded_url": "https://x.com/kimmonismus/status/2023802236502241619/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2023802089378574336",
+            "indices": [
+              253,
+              276
+            ],
+            "media_key": "13_2023802089378574336",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV/UcZGnAAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBX9RxkacAAAAA==",
+                "media_key": "13_2023802089378574336"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023802089378574336/img/fHnONjvCiNYtz-h7.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1920,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1920,
+                "w": 1080
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/siSHs5rs02",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 99450,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023802089378574336/pl/Jr9UtI6rBaUAQskA.m3u8?tag=14&v=029"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023802089378574336/vid/avc1/320x568/Ly1dKYuHR3NqVToi.mp4?tag=14"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023802089378574336/vid/avc1/480x852/BevJv_Og89LaG29T.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023802089378574336/vid/avc1/720x1280/MEIpR6kwdZGAC2ms.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023789473205809309",
+      "url": "https://x.com/polyaivoice/status/2023789473205809309",
+      "twitterUrl": "https://twitter.com/polyaivoice/status/2023789473205809309",
+      "text": "We trained our AI to handle calls that even humans find difficult. https://t.co/tpZBC9hsob",
+      "source": "Twitter for iPhone",
+      "retweetCount": 9,
+      "replyCount": 16,
+      "likeCount": 233,
+      "quoteCount": 13,
+      "viewCount": 154073,
+      "createdAt": "Tue Feb 17 15:59:45 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 131,
+      "isReply": true,
+      "inReplyToId": "2023789470559203668",
+      "conversationId": "2023789465509015972",
+      "displayTextRange": [
+        0,
+        66
+      ],
+      "inReplyToUserId": "1058351999933169664",
+      "inReplyToUsername": "polyaivoice",
+      "author": {
+        "type": "user",
+        "userName": "polyaivoice",
+        "url": "https://x.com/polyaivoice",
+        "twitterUrl": "https://twitter.com/polyaivoice",
+        "id": "1058351999933169664",
+        "name": "PolyAI",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+        "description": "",
+        "location": "",
+        "followers": 9351,
+        "following": 186,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 302,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 510,
+        "statusesCount": 1138,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2097668195326804037"
+        ],
+        "profile_bio": {
+          "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "poly.ai/gordon",
+                  "expanded_url": "https://poly.ai/gordon",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/sSnxbErYDk"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/tpZBC9hsob",
+            "expanded_url": "https://x.com/polyaivoice/status/2023789473205809309/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2023777854220357632",
+            "indices": [
+              67,
+              90
+            ],
+            "media_key": "13_2023777854220357632",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV5zxpG1AAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBXnPGkbUAAAAA==",
+                "media_key": "13_2023777854220357632"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023777854220357632/img/hnJjwTcy3wqMrzae.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1080,
+              "width": 1920
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/tpZBC9hsob",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 107200,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023777854220357632/pl/wkMAlxmuCq80lgZy.m3u8?tag=21&v=43b"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777854220357632/vid/avc1/480x270/uG1eqlCNNM_1y7Od.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777854220357632/vid/avc1/640x360/jPMiS3iXu0q_jJaK.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777854220357632/vid/avc1/1280x720/riDz1rFgo7Yg1Ukr.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777854220357632/vid/avc1/1920x1080/ndGYReZaNaWHtmCT.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023789470559203668",
+      "url": "https://x.com/polyaivoice/status/2023789470559203668",
+      "twitterUrl": "https://twitter.com/polyaivoice/status/2023789470559203668",
+      "text": "Here's what callers had to say after talking to our agents: https://t.co/vqIBs4MkSf",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 128,
+      "quoteCount": 1,
+      "viewCount": 560766,
+      "createdAt": "Tue Feb 17 15:59:44 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 39,
+      "isReply": true,
+      "inReplyToId": "2023789468348506452",
+      "conversationId": "2023789465509015972",
+      "displayTextRange": [
+        0,
+        59
+      ],
+      "inReplyToUserId": "1058351999933169664",
+      "inReplyToUsername": "polyaivoice",
+      "author": {
+        "type": "user",
+        "userName": "polyaivoice",
+        "url": "https://x.com/polyaivoice",
+        "twitterUrl": "https://twitter.com/polyaivoice",
+        "id": "1058351999933169664",
+        "name": "PolyAI",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+        "description": "",
+        "location": "",
+        "followers": 9351,
+        "following": 186,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 302,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 510,
+        "statusesCount": 1138,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2097668195326804037"
+        ],
+        "profile_bio": {
+          "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "poly.ai/gordon",
+                  "expanded_url": "https://poly.ai/gordon",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/sSnxbErYDk"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/vqIBs4MkSf",
+            "expanded_url": "https://x.com/polyaivoice/status/2023789470559203668/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "2023777239993585664",
+            "indices": [
+              60,
+              83
+            ],
+            "media_key": "13_2023777239993585664",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV5q1mVpAAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABHBXmrWZWkAAAAA==",
+                "media_key": "13_2023777239993585664"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023777239993585664/img/7mpwM8XHifIQXEPO.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1080,
+              "width": 1920
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/vqIBs4MkSf",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 25500,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2023777239993585664/pl/BYM04hgtLnuxYxP6.m3u8?tag=21&v=72a"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777239993585664/vid/avc1/480x270/h6xW6duB-0mSp9fP.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777239993585664/vid/avc1/640x360/11n_OJB2sB6WLvFX.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777239993585664/vid/avc1/1280x720/8KPeNYwWgzYMq_vy.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2023777239993585664/vid/avc1/1920x1080/BLnAw1rNnwnBl5Gu.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "2023789468348506452",
+      "url": "https://x.com/polyaivoice/status/2023789468348506452",
+      "twitterUrl": "https://twitter.com/polyaivoice/status/2023789468348506452",
+      "text": "Even Gordon Ramsay agrees https://t.co/Z2mU07fAdu",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 4,
+      "likeCount": 144,
+      "quoteCount": 2,
+      "viewCount": 119480,
+      "createdAt": "Tue Feb 17 15:59:44 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 50,
+      "isReply": true,
+      "inReplyToId": "2023789465509015972",
+      "conversationId": "2023789465509015972",
+      "displayTextRange": [
+        0,
+        49
+      ],
+      "inReplyToUserId": "1058351999933169664",
+      "inReplyToUsername": "polyaivoice",
+      "author": {
+        "type": "user",
+        "userName": "polyaivoice",
+        "url": "https://x.com/polyaivoice",
+        "twitterUrl": "https://twitter.com/polyaivoice",
+        "id": "1058351999933169664",
+        "name": "PolyAI",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+        "description": "",
+        "location": "",
+        "followers": 9351,
+        "following": 186,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 302,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 510,
+        "statusesCount": 1138,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2097668195326804037"
+        ],
+        "profile_bio": {
+          "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "poly.ai/gordon",
+                  "expanded_url": "https://poly.ai/gordon",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/sSnxbErYDk"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/polyaivoice/st…",
+            "expanded_url": "https://x.com/polyaivoice/status/2020626357101735963",
+            "indices": [
+              26,
+              49
+            ],
+            "url": "https://t.co/Z2mU07fAdu"
+          }
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "2020626357101735963",
+        "url": "https://x.com/polyaivoice/status/2020626357101735963",
+        "twitterUrl": "https://twitter.com/polyaivoice/status/2020626357101735963",
+        "text": "We’ve all felt the pain of broken customer service. You get stuck, deflected, frustrated: feeling like no one is listening when you need help the most.\n\nWhether you’re reporting a power outage, seeking help from your doctor, or booking a table at your favorite restaurant, you should never be left shouting into the void.\n\nThat’s why we’re excited to introduce Gordon Ramsay as the face of our new campaign. Together, we’re showing how PolyAI brings customer conversations to the next level, even for the most demanding customers.\n\nReady to see it for yourself? Talk to our team! We f*cking listen: https://t.co/YIpFz1MAdF",
+        "source": "Twitter for iPhone",
+        "retweetCount": 9,
+        "replyCount": 8,
+        "likeCount": 156,
+        "quoteCount": 2,
+        "viewCount": 126647,
+        "createdAt": "Sun Feb 08 22:30:39 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 48,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2020626357101735963",
+        "displayTextRange": [
+          0,
+          276
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "polyaivoice",
+          "url": "https://x.com/polyaivoice",
+          "twitterUrl": "https://twitter.com/polyaivoice",
+          "id": "1058351999933169664",
+          "name": "PolyAI",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652",
+          "description": "",
+          "location": "",
+          "followers": 9351,
+          "following": 186,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Nov 02 13:35:54 +0000 2018",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 302,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 510,
+          "statusesCount": 1138,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2097668195326804037"
+          ],
+          "profile_bio": {
+            "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "poly.ai/gordon",
+                    "expanded_url": "https://poly.ai/gordon",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/sSnxbErYDk"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "display_url": "pic.x.com/K4b7FaZ8hg",
+              "expanded_url": "https://x.com/polyaivoice/status/2020626357101735963/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "id_str": "2020626208782696448",
+              "indices": [
+                277,
+                300
+              ],
+              "media_key": "13_2020626208782696448",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwKtNTGVkAAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABHAq01MZWQAAAAA==",
+                  "media_key": "13_2020626208782696448"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HAq08hEXQAA6nIi.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 2160,
+                "width": 3840
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/K4b7FaZ8hg",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 60060,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2020626208782696448/pl/dFqXuRLepW2INVEW.m3u8?tag=14&v=06d"
+                  },
+                  {
+                    "bitrate": 288000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2020626208782696448/vid/avc1/480x270/33gx7EcRFA7ouUWC.mp4?tag=14"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2020626208782696448/vid/avc1/640x360/HFxvsz3X9oPGdlxy.mp4?tag=14"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2020626208782696448/vid/avc1/1280x720/34sZUeRXv5NMA0Gm.mp4?tag=14"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [
+            {
+              "display_url": "bit.ly/3M95jOT",
+              "expanded_url": "https://bit.ly/3M95jOT",
+              "indices": [
+                599,
+                622
+              ],
+              "url": "https://t.co/YIpFz1MAdF"
+            }
+          ],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    }
+  ],
+  "extraQuoteExpansions": {
+    "2023819850255421744": [],
+    "2023865725694480423": [
+      {
+        "type": "tweet",
+        "id": "2023866205963252074",
+        "url": "https://x.com/MyLordBebo/status/2023866205963252074",
+        "twitterUrl": "https://twitter.com/MyLordBebo/status/2023866205963252074",
+        "text": "Complex tech support jobs dealing with human errors will probably stay around for a while.\n\nAgents need human intelligence to be good.\n\nLike this, bro. https://t.co/aWghYcxl9t",
+        "source": "Twitter for iPhone",
+        "retweetCount": 8,
+        "replyCount": 6,
+        "likeCount": 67,
+        "quoteCount": 1,
+        "viewCount": 18533,
+        "createdAt": "Tue Feb 17 21:04:39 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 16,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2023866205963252074",
+        "displayTextRange": [
+          0,
+          151
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "MyLordBebo",
+          "url": "https://x.com/MyLordBebo",
+          "twitterUrl": "https://twitter.com/MyLordBebo",
+          "id": "1121807798826930177",
+          "name": "Lord Bebo",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1617268866077302786/oY7XRApc_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1121807798826930177/1674734190",
+          "description": "",
+          "location": "Traveling",
+          "followers": 803687,
+          "following": 215,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Fri Apr 26 16:06:36 +0000 2019",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 32813,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 120793,
+          "statusesCount": 153334,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Own takes on current events | Nuanced | Trying to be neutral | Video analysis, translations, transformative edits and creation | Charts about interesting events",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/aWghYcxl9t",
+              "expanded_url": "https://x.com/MyLordBebo/status/2023866205963252074/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "id_str": "2023866109837942785",
+              "indices": [
+                152,
+                175
+              ],
+              "media_key": "13_2023866109837942785",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwWN4EF16ABAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABHBY3gQXXoAEAAA==",
+                  "media_key": "13_2023866109837942785"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023866109837942785/img/molquFswwuoaka8e.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 640,
+                "width": 360
+              },
+              "sizes": {
+                "large": {
+                  "h": 640,
+                  "w": 360
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/aWghYcxl9t",
+              "video_info": {
+                "aspect_ratio": [
+                  9,
+                  16
+                ],
+                "duration_millis": 100705,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2023866109837942785/pl/yvodui0bjNmOvHRJ.m3u8?tag=21&v=77d"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023866109837942785/vid/avc1/320x568/NFweWQsLK1p4AyTZ.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2023866109837942785/vid/avc1/360x640/UsDLGe90Opajv4tb.mp4?tag=21"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "2023865725694480423",
+          "url": "https://x.com/MyLordBebo/status/2023865725694480423",
+          "twitterUrl": "https://twitter.com/MyLordBebo/status/2023865725694480423",
+          "text": "Call centers and simple customer service tasks are done … companies like PolyAI are taking these jobs.\n\n https://t.co/K4wc2UL88c",
+          "source": "Twitter for iPhone",
+          "retweetCount": 17,
+          "replyCount": 10,
+          "likeCount": 94,
+          "quoteCount": 2,
+          "viewCount": 32611,
+          "createdAt": "Tue Feb 17 21:02:45 +0000 2026",
+          "lang": "en",
+          "bookmarkCount": 39,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "2023865725694480423",
+          "displayTextRange": [
+            0,
+            128
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "MyLordBebo",
+            "url": "https://x.com/MyLordBebo",
+            "twitterUrl": "https://twitter.com/MyLordBebo",
+            "id": "1121807798826930177",
+            "name": "Lord Bebo",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1617268866077302786/oY7XRApc_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1121807798826930177/1674734190",
+            "description": "",
+            "location": "Traveling",
+            "followers": 803687,
+            "following": 215,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": false,
+            "createdAt": "Fri Apr 26 16:06:36 +0000 2019",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 32813,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 120793,
+            "statusesCount": 153334,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "Own takes on current events | Nuanced | Trying to be neutral | Video analysis, translations, transformative edits and creation | Charts about interesting events",
+              "entities": {
+                "description": {}
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additional_media_info": {
+                  "monetizable": false,
+                  "source_user": {
+                    "user_results": {
+                      "rest_id": "1058351999933169664",
+                      "result": {
+                        "__typename": "User",
+                        "action_counts": {
+                          "favorites_count": 302
+                        },
+                        "avatar": {
+                          "image_url": "https://pbs.twimg.com/profile_images/1714655287225810945/TlphLiXP_normal.jpg"
+                        },
+                        "banner": {
+                          "image_url": "https://pbs.twimg.com/profile_banners/1058351999933169664/1697640652"
+                        },
+                        "core": {
+                          "created_at": "Fri Nov 02 13:35:54 +0000 2018",
+                          "name": "PolyAI",
+                          "screen_name": "polyaivoice"
+                        },
+                        "dm_permissions": {
+                          "can_dm": false
+                        },
+                        "exclusive_tweet_following": false,
+                        "follow_request_sent": false,
+                        "identity_profile_labels_highlighted_label": {},
+                        "location": {
+                          "location": ""
+                        },
+                        "media_permissions": {
+                          "can_media_tag": true
+                        },
+                        "notifications_settings": {
+                          "notifications_enabled": false
+                        },
+                        "pinned_items": {
+                          "tweet_ids_str": [
+                            "2097668195326804037"
+                          ]
+                        },
+                        "privacy": {
+                          "protected": false,
+                          "suspended": false
+                        },
+                        "private_super_following": false,
+                        "profile_bio": {
+                          "description": "PolyAI helps enterprises show up as the best versions of themselves in every conversation.",
+                          "entities": {
+                            "description": {},
+                            "url": {
+                              "urls": [
+                                {
+                                  "display_url": "poly.ai/gordon",
+                                  "expanded_url": "https://poly.ai/gordon",
+                                  "indices": [
+                                    0,
+                                    23
+                                  ],
+                                  "url": "https://t.co/sSnxbErYDk"
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "profile_image_shape": "Square",
+                        "profile_metadata": {
+                          "profile_interstitial_type": "",
+                          "profile_link_color": "1DA1F2"
+                        },
+                        "profile_translation": {
+                          "translator_type_enum": "None"
+                        },
+                        "properties": {
+                          "has_extended_profile": false,
+                          "has_no_screen_name": false
+                        },
+                        "relationship_counts": {
+                          "followers": 9351,
+                          "following": 186
+                        },
+                        "relationship_perspectives": {
+                          "blocked_by": false,
+                          "blocking": false,
+                          "followed_by": false,
+                          "following": false,
+                          "live_following": false,
+                          "muting": false
+                        },
+                        "rest_id": "1058351999933169664",
+                        "smart_blocked_by": false,
+                        "smart_blocking": false,
+                        "super_follow_eligible": false,
+                        "super_followed_by": false,
+                        "super_following": false,
+                        "tweet_counts": {
+                          "media_tweets": 510,
+                          "tweets": 1138
+                        },
+                        "verification": {
+                          "is_blue_verified": true,
+                          "verified": false,
+                          "verified_type": "Business"
+                        },
+                        "website": {
+                          "url": "https://t.co/sSnxbErYDk"
+                        }
+                      }
+                    }
+                  }
+                },
+                "allow_download_status": {
+                  "allow_download": false
+                },
+                "display_url": "pic.x.com/K4wc2UL88c",
+                "expanded_url": "https://x.com/polyaivoice/status/2023789465509015972/video/1",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_media_restrictions": {
+                  "is_dmca": false
+                },
+                "ext_playlists": [],
+                "id_str": "2023781188654022658",
+                "indices": [
+                  105,
+                  128
+                ],
+                "media_key": "13_2023781188654022658",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARwV6kTE10ACAAA=",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAAECgABHBXqRMTXQAIAAA==",
+                    "media_key": "13_2023781188654022658"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2023781188654022658/img/fP2-hA1kW0HMjrCc.jpg",
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 2160,
+                  "width": 3840
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1152,
+                    "w": 2048
+                  }
+                },
+                "source_status_id_str": "2023789465509015972",
+                "source_user_id_str": "1058351999933169664",
+                "type": "video",
+                "url": "https://t.co/K4wc2UL88c",
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 182280,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2023781188654022658/pl/pY7fGo9ZUyDsj3Qz.m3u8?tag=21&v=639"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/480x270/GwsEaF0hNIUEcyIL.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/640x360/rhGelA1X1J4ZHLN8.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1280x720/9ieCeWK3IucWADjR.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/1920x1080/4BeklZ-i4XB215Z-.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 25128000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2023781188654022658/vid/avc1/3840x2160/yktx9yznHeR6mbQ7.mp4?tag=21"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      }
+    ]
+  },
+  "accountNotes": [
+    {
+      "handle": "itsolelehmann",
+      "note": "Ole Lehmann; 159.8K followers. Bio says he covers AI and robotics and helps business owners with AI. His high-view post framed the launch as call-center displacement (822,931 views, +62 minutes).",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "gvtcontractor",
+      "note": "Sebastián; 16.9K followers. Bio identifies him as a government contractor interested in economics, Bitcoin, AI and commentary. His post raised the employment impact in the Philippines (527,489 views, +307 minutes).",
+      "likelyRole": "unknown"
+    },
+    {
+      "handle": "damianplayer",
+      "note": "Damian Player; 49.4K followers. Bio says he engineers virality for fast-growing AI companies. His post demonstrated a Tesla support agent and questioned the cost of human receptionists (183,433 views, +57 minutes).",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "nikola_mrksic",
+      "note": "Nikola Mrkšić; 1,941 followers. Bio identifies him as PolyAI CEO. His post supplied founder backstory involving Apple and Siri, appearing at +20 minutes and reaching 69,642 views.",
+      "likelyRole": "founder"
+    },
+    {
+      "handle": "kimmonismus",
+      "note": "Chubby; 143.5K followers. Bio describes him as a tech analyst and content creator, and editor-in-chief of GetSuperIntel. His post highlighted a RyanAir customer-service demonstration at +51 minutes.",
+      "likelyRole": "press"
+    },
+    {
+      "handle": "rohanpaul_ai",
+      "note": "Rohan Paul; 157.2K followers. Bio describes an AGI-focused analyst/newsletter writer. His later post connected Khosla's early backing with PolyAI's accumulated data, at +1,628 minutes and 28,420 views.",
+      "likelyRole": "large_creator"
+    }
+  ],
+  "narratives": [
+    {
+      "label": "Product endorsement and accessible agent-building demos",
+      "exampleTweetIds": [
+        "2023791413620863182",
+        "2023794174093578356",
+        "2023803921375129758",
+        "2023819850255421744"
+      ],
+      "firstSeenMinutes": 8
+    },
+    {
+      "label": "Founder/company backstory and strategic validation",
+      "exampleTweetIds": [
+        "2023794497432269127",
+        "2024199097520152854"
+      ],
+      "firstSeenMinutes": 20
+    },
+    {
+      "label": "Human-sounding demonstrations and Turing-test framing",
+      "exampleTweetIds": [
+        "2023801126412489026",
+        "2023801635332648968",
+        "2023802013008749026"
+      ],
+      "firstSeenMinutes": 46
+    },
+    {
+      "label": "Call-center displacement and employment critique",
+      "exampleTweetIds": [
+        "2023801635332648968",
+        "2023805114063208645",
+        "2023824035415834649",
+        "2023866608293474744"
+      ],
+      "firstSeenMinutes": 48
+    },
+    {
+      "label": "International-language and global customer-service adoption",
+      "exampleTweetIds": [
+        "2023803494638203135",
+        "2023807107426918460",
+        "2023865725694480423"
+      ],
+      "firstSeenMinutes": 56
+    }
+  ],
+  "notes": [
+    "The launch-window searches surfaced additional non-quote posts missed by the deterministic collector, including 2023819850255421744 (+121 minutes), 2023802236502241619 (+51), 2023865725694480423 (+303), 2023885968978350549 (+383), 2024153570048970866 (+1,447), 2024237497803477374 (+1,780), 2024457735547584737 (+2,655), and 2024577247932535084 (+3,130).",
+    "The product-nickname query for “Amelia Campbell” returned no results. The “PolyAI” and “500M+ calls” searches returned the anchor and additional launch-window discussion; they did not reveal a separate founder-name wave beyond the already collected material.",
+    "Second-wave expansion was attempted for 2023819850255421744 (AndrewBolis) and 2023865725694480423 (MyLordBebo). The former returned no quote tweets; the latter produced 2023866205963252074 at +305 minutes, continuing the call-center displacement discussion while not quoting the anchor.",
+    "The earliest observed amplifiers were mixed: small accounts, AI-focused creators, the PolyAI CEO, and later analyst/creator accounts. The evidence shows temporal association and thematic sequence, not payment or causation.",
+    "The largest-view amplification was strongly concentrated around job displacement (especially call centers), while early posts more often emphasized demos, voice quality, and the URL-to-agent workflow."
+  ]
+}

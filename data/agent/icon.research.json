@@ -1,0 +1,4359 @@
+{
+  "launch": "icon",
+  "extraSearchHits": [
+    {
+      "type": "tweet",
+      "id": "1887043196942999842",
+      "url": "https://x.com/CodeByPoonam/status/1887043196942999842",
+      "twitterUrl": "https://twitter.com/CodeByPoonam/status/1887043196942999842",
+      "text": "Icon just launched and it is already eating up the $600B+ ads industry.\n\nAnyone can now make 100s of viral UGC ads using AI. Goodbye to expensive and time-consuming ads.\n\nCheck this launch video by the founder: https://t.co/aYd7REAVIx",
+      "source": "Twitter for iPhone",
+      "retweetCount": 32,
+      "replyCount": 42,
+      "likeCount": 235,
+      "quoteCount": 1,
+      "viewCount": 46998,
+      "createdAt": "Wed Feb 05 07:38:52 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 372,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1887043196942999842",
+      "displayTextRange": [
+        0,
+        210
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "CodeByPoonam",
+        "url": "https://x.com/CodeByPoonam",
+        "twitterUrl": "https://twitter.com/CodeByPoonam",
+        "id": "1437853146257133569",
+        "name": "Poonam Soni",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1534492626765742080/_v1s7cVA_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1437853146257133569/1761034731",
+        "description": "",
+        "location": "DM for Collabs",
+        "followers": 214249,
+        "following": 678,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Sep 14 18:58:18 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 172580,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 16022,
+        "statusesCount": 76426,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2099826392217326031"
+        ],
+        "profile_bio": {
+          "description": "Post about everything latest in AI | Founder: AI Toast| DM for Collabs",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "aitoast.beehiiv.com",
+                  "expanded_url": "https://aitoast.beehiiv.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/m6vRpUSQCc"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/aYd7REAVIx",
+            "expanded_url": "https://x.com/CodeByPoonam/status/1887043196942999842/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "1887042609362952194",
+            "indices": [
+              211,
+              234
+            ],
+            "media_key": "13_1887042609362952194",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARowH0FXGuACAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABGjAfQVca4AIAAA==",
+                "media_key": "13_1887042609362952194"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1887042609362952194/img/4I8L-OgvGC3bP5K6.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 2160,
+              "width": 3840
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/aYd7REAVIx",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 88755,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1887042609362952194/pl/2NfqCotCpxnXB4PR.m3u8?tag=14&v=051"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1887042609362952194/vid/avc1/480x270/mDDiQj0ZQKdW0AJI.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1887042609362952194/vid/avc1/640x360/FI5_aFmTpNY1Haxj.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1887042609362952194/vid/avc1/1280x720/FEDlHQ2sCgbaBDbn.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1886964873034449168",
+      "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+      "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+      "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+      "source": "Twitter for iPhone",
+      "retweetCount": 279,
+      "replyCount": 253,
+      "likeCount": 2230,
+      "quoteCount": 50,
+      "viewCount": 810608,
+      "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 4582,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1886964873034449168",
+      "displayTextRange": [
+        0,
+        259
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "kritarthmittal",
+        "url": "https://x.com/kritarthmittal",
+        "twitterUrl": "https://twitter.com/kritarthmittal",
+        "id": "727531224567173120",
+        "name": "Kritarth Mittal | Soshals",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+        "description": "",
+        "location": "blr • del • idr",
+        "followers": 23965,
+        "following": 518,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue May 03 16:12:15 +0000 2016",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 128123,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5579,
+        "statusesCount": 42748,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2026132581281075252"
+        ],
+        "profile_bio": {
+          "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    21,
+                    32
+                  ],
+                  "name": "",
+                  "screen_name": "soshalsapp"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/WXiCzW8Aj7",
+            "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+            "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 352,
+                    "y": 85
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 352,
+                    "y": 85
+                  }
+                ]
+              }
+            },
+            "id_str": "1886957145847144448",
+            "indices": [
+              260,
+              283
+            ],
+            "media_key": "3_1886957145847144448",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                "media_key": "3_1886957145847144448"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 449,
+                  "w": 801,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 565,
+                  "w": 565,
+                  "x": 98,
+                  "y": 0
+                },
+                {
+                  "h": 565,
+                  "w": 496,
+                  "x": 132,
+                  "y": 0
+                },
+                {
+                  "h": 565,
+                  "w": 283,
+                  "x": 239,
+                  "y": 0
+                },
+                {
+                  "h": 565,
+                  "w": 801,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 565,
+              "width": 801
+            },
+            "sizes": {
+              "large": {
+                "h": 565,
+                "w": 801
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WXiCzW8Aj7"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1886836061378372064",
+      "url": "https://x.com/icon/status/1886836061378372064",
+      "twitterUrl": "https://twitter.com/icon/status/1886836061378372064",
+      "text": "Excited to introduce Icon, The First AI Admaker.\n\nWe’re backed by Peter Thiel’s Founders Fund & execs of frontier AI labs like OpenAI, Pika, & Cognition.\n\nIcon (https://t.co/RKWomrKrAu) is like ChatGPT + CapCut, but for making winning ads with AI in minutes.\n\nHow it works:\n1. Icon looks at your video library & tags scenes (e.g. \"close-up,\" \"unboxing\"). These scenes become reusable clips used as lego blocks for making ads.\n2. Prompt Icon’s AdGPT to generate scripts focused on specific angles & audiences.\n3. Icon finds perfectly matching clips for every script scene & generates an ad that is 80-99% complete.\n4. Make edits with our CapCut-like video editor until you're happy.\n\n3-person creative teams make 30 ads per month. With Icon, they make 300.\n\nWe co-built Icon with $100M+ revenue brands like Ridge, Jones Road, Immi, Backbone, & MUD\\WTR to solve big pain-points:\n\n1. Making lots of ads is extremely painful. Icon helps you automate the tedious parts of scriptwriting, scene matching, video editing, audience research, UGC creation, & more.\n\n2. AI-generated ads look like trash. Icon remixes your existing footage into new ads, matching your production quality & maintaining brand aesthetics.\n\n3. Existing solutions charge $2K-$30K/month for:\n🔍 Competitor ad spying & cloning\n📈 Creative analytics\n📹 Custom & stock avatars for AI UGC\n👥 Audience research\n📁 Video storage & tagging\n\nIcon does scriptwriting & video editing on top of everything above for just $999/year (their margin is our opportunity 😉).\n\nIf you’ve made it this far, we have a surprise for you 👇🏻",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1375,
+      "replyCount": 1416,
+      "likeCount": 8016,
+      "quoteCount": 419,
+      "viewCount": 2367887,
+      "createdAt": "Tue Feb 04 17:55:47 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 10764,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1886836061378372064",
+      "displayTextRange": [
+        0,
+        284
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "icon",
+        "url": "https://x.com/icon",
+        "twitterUrl": "https://twitter.com/icon",
+        "id": "3222730844",
+        "name": "Kennan Jenner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2030574128105717761/qaTODCPu_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3222730844/1775982368",
+        "description": "",
+        "location": "New York, NY",
+        "followers": 24757,
+        "following": 82,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Thu May 21 22:22:00 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 887,
+        "hasCustomTimelines": true,
+        "isTranslator": true,
+        "mediaCount": 3,
+        "statusesCount": 28,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2092312369292517678"
+        ],
+        "profile_bio": {
+          "description": "Founder @Icon. 6 Human UGC ads filmed & edited for $1000 (not AI). $30M raised. College dropout. Solo-founded Skio ($105M cash exit), T200 LoL, YC S20.",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    8,
+                    13
+                  ],
+                  "name": "",
+                  "screen_name": "Icon"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "icon.com",
+                  "expanded_url": "https://icon.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/mFhZPXfhlM"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": false
+            },
+            "display_url": "pic.x.com/2oI6Ctr8mE",
+            "expanded_url": "https://x.com/kennandavison/status/1886836061378372064/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "1886820440959578112",
+            "indices": [
+              285,
+              308
+            ],
+            "media_key": "7_1886820440959578112",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARovVTG6V3AACgACGi9jZqPa4eAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAADCgABGi9VMbpXcAAKAAIaL2Nmo9rh4AAA",
+                "media_key": "7_1886820440959578112"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GjBUoz0WsAAIZYH.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1896,
+              "width": 3370
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/2oI6Ctr8mE",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 88755,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1886820440959578112/pu/pl/TtVxVfxV9VfRJ7Io.m3u8?tag=14&v=ad7"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1886820440959578112/pu/vid/avc1/480x270/qDP2yOALvJUum0C8.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1886820440959578112/pu/vid/avc1/640x360/bkBnk9luWGAAaEOL.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1886820440959578112/pu/vid/avc1/1280x720/UFS-xokLpnVleedr.mp4?tag=14"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1886820440959578112/pu/vid/avc1/1920x1080/HSNabowVs_zz4ia-.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "icon.me",
+            "expanded_url": "http://icon.me",
+            "indices": [
+              161,
+              184
+            ],
+            "url": "https://t.co/RKWomrKrAu"
+          }
+        ],
+        "user_mentions": []
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1887121730415759863",
+      "url": "https://x.com/darshal_/status/1887121730415759863",
+      "twitterUrl": "https://twitter.com/darshal_/status/1887121730415759863",
+      "text": "The Future of Ad Creation Has Arrived → And It's Mind-Blowing!\n\nAfter 10+ years in digital marketing, I've never seen anything quite like this.\n\nThe AI Admaker I recently found is called Icon and it is flipping the $600B+ ads industry.\n\n➤ Here's what makes it crazy good:\n\n↳ Smart Scene Analysis – Transform your video library into an organized, tagged content goldmine\n   \n↳ AI-Powered Scripting – Just submit a single line prompt and Icon will write viral ad scripts for you.\n\n↳ Intelligent Scene Matching – Icon analyzes and understands what is happening in the video and then labels it like “product display”, “broll” etc.\n\n↳ Professional Grade Tools – Everything you loved about CapCut, but smarter and for viral ads\n\n➤ The Impact is Staggering:\n\nIt took millions of dollars and months for top brands like Nike and Coca-Cola to make ads. With Icon, you can generate 100s of ad variations within a day.\n\n➤ $100M+ brands like Ridge, Obvi, and Muddy Bites are already using Icon to make the viral AI ads that you keep seeing on your feeds.\n\nWhy? Because Icon solves real problems:\n\n↳ Eliminates tedious tasks\n↳ Maintains brand aesthetics\n↳ Delivers enterprise features at 1/30th the cost\n↳ Streamlines the entire workflow\n\nThe most shocking part? While competitors charge $2K-$30K monthly, Icon delivers ALL of this for just $999/year.\n\n➤ In <$1000, you get:\n\n↳ Competitor ad analysis\n↳ Performance analytics\n↳ AI-powered UGC generation\n↳ Advanced audience research\n↳ Video asset management\n↳ Pro-grade editing suite\n\nThis isn't just another tool. It's a complete transformation of how we create winning ads.\n\nReady to revolutionize your ad creation process? Visit https://t.co/nxrHXxaB2j today.\n\n↳ Like this post if you're ready to scale your content creation\n↳ Comment \"INFO\" for my personal Icon workflow\n↳ Share this with someone who needs to level up their ad game\n\n🔥 What's your biggest challenge in content creation? Let's discuss below!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 40,
+      "replyCount": 120,
+      "likeCount": 167,
+      "quoteCount": 1,
+      "viewCount": 45682,
+      "createdAt": "Wed Feb 05 12:50:56 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 65,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1887121730415759863",
+      "displayTextRange": [
+        0,
+        274
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "darshal_",
+        "url": "https://x.com/darshal_",
+        "twitterUrl": "https://twitter.com/darshal_",
+        "id": "1812186399552270336",
+        "name": "Darshal Jaitwar",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2096117567450746880/CMbA9zrs_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "No limit",
+        "followers": 76371,
+        "following": 204,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sat Jul 13 18:05:04 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 115698,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3213,
+        "statusesCount": 29084,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2099098902813442539"
+        ],
+        "profile_bio": {
+          "description": "Daily AI tools & tech insights\n📩 Biz: darshaljaitwar8@gmail.com",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "passionfroot.me/darshal28-",
+                  "expanded_url": "https://www.passionfroot.me/darshal28-",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/UQFqe10pfK"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/WV9s78jG4v",
+            "expanded_url": "https://x.com/darshal_/status/1887121730415759863/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "1887121537951748096",
+            "indices": [
+              275,
+              298
+            ],
+            "media_key": "7_1887121537951748096",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARowZwpVmlAACgACGjBnNyVaEfcAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAADCgABGjBnClWaUAAKAAIaMGc3JVoR9wAA",
+                "media_key": "7_1887121537951748096"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1887121537951748096/pu/img/mQxd7O283txHIZCN.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 720,
+              "width": 1280
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/WV9s78jG4v",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 88810,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1887121537951748096/pu/pl/-5Pg01G3HXkr95p6.m3u8?tag=12&v=ca7"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1887121537951748096/pu/vid/avc1/480x270/NOqI-YZlH2UR08by.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1887121537951748096/pu/vid/avc1/640x360/NfXBPTBdA6eT6Gnb.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1887121537951748096/pu/vid/avc1/1280x720/S69RqSTfAJc-_IsT.mp4?tag=12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "Icon.me",
+            "expanded_url": "http://Icon.me",
+            "indices": [
+              1667,
+              1690
+            ],
+            "url": "https://t.co/nxrHXxaB2j"
+          }
+        ],
+        "user_mentions": []
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    }
+  ],
+  "extraQuoteExpansions": {
+    "1886884284117459388": [],
+    "1886964873034449168": [
+      {
+        "type": "tweet",
+        "id": "1915717252373958902",
+        "url": "https://x.com/kritarthmittal/status/1915717252373958902",
+        "twitterUrl": "https://twitter.com/kritarthmittal/status/1915717252373958902",
+        "text": "@Marketing_Nerd_ This one looks quite like mine\nhttps://t.co/HyQkx7FxW1",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 12,
+        "quoteCount": 0,
+        "viewCount": 2419,
+        "createdAt": "Fri Apr 25 10:39:19 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "1915484008013537756",
+        "conversationId": "1915484008013537756",
+        "displayTextRange": [
+          17,
+          71
+        ],
+        "inReplyToUserId": "1598362260522430464",
+        "inReplyToUsername": "Business_Nerd_",
+        "author": {
+          "type": "user",
+          "userName": "kritarthmittal",
+          "url": "https://x.com/kritarthmittal",
+          "twitterUrl": "https://twitter.com/kritarthmittal",
+          "id": "727531224567173120",
+          "name": "Kritarth Mittal | Soshals",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+          "description": "",
+          "location": "blr • del • idr",
+          "followers": 23965,
+          "following": 518,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue May 03 16:12:15 +0000 2016",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 128123,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 5579,
+          "statusesCount": 42748,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2026132581281075252"
+          ],
+          "profile_bio": {
+            "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      21,
+                      32
+                    ],
+                    "name": "",
+                    "screen_name": "soshalsapp"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kritarthmittal…",
+              "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168",
+              "indices": [
+                48,
+                71
+              ],
+              "url": "https://t.co/HyQkx7FxW1"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887495477924352484",
+        "url": "https://x.com/daniellgoldstei/status/1887495477924352484",
+        "twitterUrl": "https://twitter.com/daniellgoldstei/status/1887495477924352484",
+        "text": "One random thought on this. I recently consulted for a company who was all-in on AI content for their ads. \n\nThey thought it was great. Cost were low. Testing was easy. But the content was obviously created by AI. \n\nTheir business was struggling. Because people don’t want to buy from AI. They want to buy products from people they trust. And until AI can’t be detected - I don’t buy into this strategy.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 4,
+        "likeCount": 6,
+        "quoteCount": 0,
+        "viewCount": 1027,
+        "createdAt": "Thu Feb 06 13:36:04 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887495477924352484",
+        "displayTextRange": [
+          0,
+          279
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "daniellgoldstei",
+          "url": "https://x.com/daniellgoldstei",
+          "twitterUrl": "https://twitter.com/daniellgoldstei",
+          "id": "55628543",
+          "name": "Dan Goldstein | Fractional CMO",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1899498225406521344/XB-sjUdq_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/55628543/1741710653",
+          "description": "",
+          "location": "Book a free strategy call 👉",
+          "followers": 2397,
+          "following": 1239,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Fri Jul 10 18:23:09 +0000 2009",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 864,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 975,
+          "statusesCount": 9785,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1719737725912260784"
+          ],
+          "profile_bio": {
+            "description": "Fractional CMO for early stage health, wellness & fitness companies. Learn more 👉 https://t.co/Db9yrQQVN5",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "NextRep.co",
+                    "expanded_url": "http://NextRep.co",
+                    "indices": [
+                      82,
+                      105
+                    ],
+                    "url": "https://t.co/Db9yrQQVN5"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "calendly.com/nextrepmarketi…",
+                    "expanded_url": "https://calendly.com/nextrepmarketing_dan/30min",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Ta3k7SPLh3"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887486887398678943",
+        "url": "https://x.com/theisaacmed/status/1887486887398678943",
+        "twitterUrl": "https://twitter.com/theisaacmed/status/1887486887398678943",
+        "text": "I’m not trying to be a downer here, but I guarantee you a few brands will get one shotted by the FTC’s AI rule here. \n\nI also think AI slop/low effort content will continue to drive worse and worse results. \n\nAI has a role in content no doubt, but be mindful.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 2,
+        "replyCount": 21,
+        "likeCount": 108,
+        "quoteCount": 1,
+        "viewCount": 30475,
+        "createdAt": "Thu Feb 06 13:01:56 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 37,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887486887398678943",
+        "displayTextRange": [
+          0,
+          259
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "theisaacmed",
+          "url": "https://x.com/theisaacmed",
+          "twitterUrl": "https://twitter.com/theisaacmed",
+          "id": "1460843499566239744",
+          "name": "isaac",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1599981121608957952/h1jspSch_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1460843499566239744/1765314024",
+          "description": "",
+          "location": "",
+          "followers": 24049,
+          "following": 1341,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Nov 17 05:33:36 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 17226,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 930,
+          "statusesCount": 9786,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "built @minikatanastore to 30M subs on YouTube & exited. business nerd. I help brands grow through video.",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      6,
+                      22
+                    ],
+                    "name": "",
+                    "screen_name": "minikatanastore"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "getcontentforge.com",
+                    "expanded_url": "http://getcontentforge.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/YHrQyAGKij"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887250056782434683",
+        "url": "https://x.com/tonydoesads/status/1887250056782434683",
+        "twitterUrl": "https://twitter.com/tonydoesads/status/1887250056782434683",
+        "text": "Please read up on the FTC's rules before launching tons of AI UGC ads\n\nCrazy to me how many companies are pushing AI ads and ignoring the clear guidelines they put out last August:\n\n\"The final rule addresses reviews and testimonials that misrepresent that they are by someone who does not exist, such as AI-generated fake reviews, or who did not have actual experience with the business or its products or services, or that misrepresent the experience of the person giving it. It prohibits businesses from creating or selling such reviews or testimonials. It also prohibits them from buying such reviews, procuring them from company insiders, or disseminating such testimonials, when the business knew or should have known that the reviews or testimonials were fake or false.\"",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 3,
+        "likeCount": 11,
+        "quoteCount": 0,
+        "viewCount": 863,
+        "createdAt": "Wed Feb 05 21:20:51 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887250056782434683",
+        "displayTextRange": [
+          0,
+          279
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "tonydoesads",
+          "url": "https://x.com/tonydoesads",
+          "twitterUrl": "https://twitter.com/tonydoesads",
+          "id": "935618706465472512",
+          "name": "Tony Christensen 🧱",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1978576794682101760/rrU1W_x__normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/935618706465472512/1760564421",
+          "description": "",
+          "location": "Subscribe to my newsletter ⤵️",
+          "followers": 4492,
+          "following": 2498,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Nov 28 21:17:37 +0000 2017",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 41424,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 1677,
+          "statusesCount": 10857,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1789077410752942357"
+          ],
+          "profile_bio": {
+            "description": "I help ecommerce brands make millions with Paid Ads & Creative Strategy / https://t.co/l7KAy5tokR",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "bricksocial.co.uk",
+                    "expanded_url": "https://www.bricksocial.co.uk/",
+                    "indices": [
+                      74,
+                      97
+                    ],
+                    "url": "https://t.co/l7KAy5tokR"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "brick-by-brick.beehiiv.com/subscribe",
+                    "expanded_url": "https://brick-by-brick.beehiiv.com/subscribe",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/VB3KIqZlL3"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887187480463438296",
+        "url": "https://x.com/johncarl/status/1887187480463438296",
+        "twitterUrl": "https://twitter.com/johncarl/status/1887187480463438296",
+        "text": "RIP ad industry.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 76,
+        "createdAt": "Wed Feb 05 17:12:12 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887187480463438296",
+        "displayTextRange": [
+          0,
+          16
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "johncarl",
+          "url": "https://x.com/johncarl",
+          "twitterUrl": "https://twitter.com/johncarl",
+          "id": "6450422",
+          "name": "John Carl - e/acc",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1881274969524445184/j05kMPfX_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/6450422/1737365211",
+          "description": "",
+          "location": "Brooklyn, NY",
+          "followers": 1765,
+          "following": 2689,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Wed May 30 18:42:00 +0000 2007",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 23972,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 72,
+          "statusesCount": 1263,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "947160892487159814"
+          ],
+          "profile_bio": {
+            "description": "NYC x Charlotte, NC // Cinematographer, 3D // High end product commercials // Interested in the intersection of art, tech, and AI. // Represented by CA1CA2.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "johncarl.com",
+                    "expanded_url": "http://johncarl.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/vjk7we9AXS"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887182551355150788",
+        "url": "https://x.com/techstartups/status/1887182551355150788",
+        "twitterUrl": "https://twitter.com/techstartups/status/1887182551355150788",
+        "text": "Icon AI, known for its AI Admaker, has been backed by significant investors including Peter Thiel's Founders Fund and executives from OpenAI and Ramp. It was founded by individuals with notable experience, including the former CEO of Skio.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 202,
+        "createdAt": "Wed Feb 05 16:52:37 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 3,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887182551355150788",
+        "displayTextRange": [
+          0,
+          239
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "techstartups",
+          "url": "https://x.com/techstartups",
+          "twitterUrl": "https://twitter.com/techstartups",
+          "id": "14502632",
+          "name": "techstartups",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1893393612546752512/pe6OqnW9_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/14502632/1735005505",
+          "description": "",
+          "location": "Silicon Valley",
+          "followers": 36316,
+          "following": 3217,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Wed Apr 23 23:13:19 +0000 2008",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 4920,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 183,
+          "statusesCount": 20621,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887154179493486904",
+        "url": "https://x.com/BasedBaronT/status/1887154179493486904",
+        "twitterUrl": "https://twitter.com/BasedBaronT/status/1887154179493486904",
+        "text": "Literally nobody is calling him the “Sam Altman of UGC ads”",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 27,
+        "quoteCount": 0,
+        "viewCount": 1553,
+        "createdAt": "Wed Feb 05 14:59:52 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887154179493486904",
+        "displayTextRange": [
+          0,
+          59
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "BasedBaronT",
+          "url": "https://x.com/BasedBaronT",
+          "twitterUrl": "https://twitter.com/BasedBaronT",
+          "id": "1858037039717036033",
+          "name": "Based Baron",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1858037256738742272/dEp9d5O6_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1858037039717036033/1734363837",
+          "description": "",
+          "location": "probably some NYU baddie’s apt",
+          "followers": 2795,
+          "following": 345,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Sun Nov 17 06:39:08 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 3328,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 183,
+          "statusesCount": 1647,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1869525987102474641"
+          ],
+          "profile_bio": {
+            "description": "scout @a16z | analyst @TBPN | Z Fellow | future Emperor of the High Galaxies and purveyor of the Techno-Conservative Golden Age",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      6,
+                      11
+                    ],
+                    "name": "",
+                    "screen_name": "a16z"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      22,
+                      27
+                    ],
+                    "name": "",
+                    "screen_name": "TBPN"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "deepseek.com",
+                    "expanded_url": "https://www.deepseek.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/LqZY1TaREX"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887128584147308838",
+        "url": "https://x.com/JonathanMoffie/status/1887128584147308838",
+        "twitterUrl": "https://twitter.com/JonathanMoffie/status/1887128584147308838",
+        "text": "@joe_zappa Welp, Icon is already inspiring thread boi slop to pump its bags. Ad Tech has officially gone mainstream 🤣 https://t.co/eSTzHS6l1e",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 5,
+        "quoteCount": 0,
+        "viewCount": 193,
+        "createdAt": "Wed Feb 05 13:18:10 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": true,
+        "inReplyToId": "1886911581230903320",
+        "conversationId": "1886911581230903320",
+        "displayTextRange": [
+          11,
+          141
+        ],
+        "inReplyToUserId": "2298737016",
+        "inReplyToUsername": "joe_zappa",
+        "author": {
+          "type": "user",
+          "userName": "JonathanMoffie",
+          "url": "https://x.com/JonathanMoffie",
+          "twitterUrl": "https://twitter.com/JonathanMoffie",
+          "id": "298014932",
+          "name": "Jonathan Moffie",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2087005042058657793/mQBu8k27_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/298014932/1770662272",
+          "description": "",
+          "location": "California",
+          "followers": 1040,
+          "following": 2418,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri May 13 14:26:29 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 4683,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 379,
+          "statusesCount": 1594,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1828050870090817851"
+          ],
+          "profile_bio": {
+            "description": "https://t.co/GPXuMyCmjg | Agentic CTV Platform acquired by Magnite (Opinions are my own)",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "streamr.ai",
+                    "expanded_url": "http://streamr.ai",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/GPXuMyCmjg"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "streamr.ai",
+                    "expanded_url": "https://streamr.ai/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/yeHo3Usdul"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kritarthmittal…",
+              "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168",
+              "indices": [
+                118,
+                141
+              ],
+              "url": "https://t.co/eSTzHS6l1e"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "2298737016",
+              "indices": [
+                0,
+                10
+              ],
+              "name": "Joe Zappa",
+              "screen_name": "joe_zappa"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887108939881279737",
+        "url": "https://x.com/batuhanmerguz/status/1887108939881279737",
+        "twitterUrl": "https://twitter.com/batuhanmerguz/status/1887108939881279737",
+        "text": "And he was LoL Challenger in NA once. Which is the most impressive of all. Gg mate @icon",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 165,
+        "createdAt": "Wed Feb 05 12:00:06 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887108939881279737",
+        "displayTextRange": [
+          0,
+          88
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "batuhanmerguz",
+          "url": "https://x.com/batuhanmerguz",
+          "twitterUrl": "https://twitter.com/batuhanmerguz",
+          "id": "1407287950870781955",
+          "name": "Batuhan Mergüz",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1980568093836390401/nB0tVX3J_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1407287950870781955/1761038820",
+          "description": "",
+          "location": "Izmir / Türkiye",
+          "followers": 878,
+          "following": 328,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Jun 22 10:43:00 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 4875,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 177,
+          "statusesCount": 1368,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Product @ Aicado 🥑\n\nBubble Sensei • Maker • AI / Nocode Pioneer",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "aicado.ai",
+                    "expanded_url": "https://aicado.ai",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/fs9CTfJX2g"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "3222730844",
+              "indices": [
+                83,
+                88
+              ],
+              "name": "",
+              "screen_name": "icon"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1887093403931795730",
+        "url": "https://x.com/drillox_096/status/1887093403931795730",
+        "twitterUrl": "https://twitter.com/drillox_096/status/1887093403931795730",
+        "text": "Talk about GPTs but this application is another level, how it gets the perfect fit for the audios , images in the videos or ads plus very well elastrative scripts giving the true details.\n\n#business #startup #SoftwareEngineer  #Marketing #Sales",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 107,
+        "createdAt": "Wed Feb 05 10:58:22 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1887093403931795730",
+        "displayTextRange": [
+          0,
+          244
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "drillox_096",
+          "url": "https://x.com/drillox_096",
+          "twitterUrl": "https://twitter.com/drillox_096",
+          "id": "1804263129238638595",
+          "name": "Drillox",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1804736866450563072/90B8l4cw_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1804263129238638595/1720004597",
+          "description": "",
+          "location": "",
+          "followers": 64,
+          "following": 197,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Fri Jun 21 21:21:07 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 985,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 24,
+          "statusesCount": 221,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Tech, code & innovation 🔥 | Mobile app developer 📱 | Software builder. Founder https://t.co/RVUvVrrmIH https://t.co/zwGlhPThox",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "xpress-shops.com",
+                    "expanded_url": "https://xpress-shops.com",
+                    "indices": [
+                      79,
+                      102
+                    ],
+                    "url": "https://t.co/RVUvVrrmIH"
+                  },
+                  {
+                    "display_url": "shortfils.com",
+                    "expanded_url": "https://shortfils.com",
+                    "indices": [
+                      103,
+                      126
+                    ],
+                    "url": "https://t.co/zwGlhPThox"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                189,
+                198
+              ],
+              "text": "business"
+            },
+            {
+              "indices": [
+                199,
+                207
+              ],
+              "text": "startup"
+            },
+            {
+              "indices": [
+                208,
+                225
+              ],
+              "text": "SoftwareEngineer"
+            },
+            {
+              "indices": [
+                227,
+                237
+              ],
+              "text": "Marketing"
+            },
+            {
+              "indices": [
+                238,
+                244
+              ],
+              "text": "Sales"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1886971522075779228",
+        "url": "https://x.com/nrqa__/status/1886971522075779228",
+        "twitterUrl": "https://twitter.com/nrqa__/status/1886971522075779228",
+        "text": "guys check this out🫵",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 942,
+        "createdAt": "Wed Feb 05 02:54:03 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1886971522075779228",
+        "displayTextRange": [
+          0,
+          20
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "nrqa__",
+          "url": "https://x.com/nrqa__",
+          "twitterUrl": "https://twitter.com/nrqa__",
+          "id": "1596337163805020160",
+          "name": "Nelly;",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2035538789037420544/yWyu20U2_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1596337163805020160/1746589058",
+          "description": "",
+          "location": "No limit",
+          "followers": 76787,
+          "following": 977,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sat Nov 26 02:57:03 +0000 2022",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 67027,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 12375,
+          "statusesCount": 51334,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2058740615530397955"
+          ],
+          "profile_bio": {
+            "description": "𝕏'ing hot takes on AI & tech || Biz inq ✉️hey@nellyrq.io",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "1886968384329240971",
+        "url": "https://x.com/kritarthmittal/status/1886968384329240971",
+        "twitterUrl": "https://twitter.com/kritarthmittal/status/1886968384329240971",
+        "text": "Follow me @kritarthmittal for more such banger content, tools, and hacks.\n\nRetweet this to share with your network! Lfg!\n https://t.co/tEkJ8XQ0yJ",
+        "source": "Twitter for iPhone",
+        "retweetCount": 4,
+        "replyCount": 5,
+        "likeCount": 15,
+        "quoteCount": 0,
+        "viewCount": 10179,
+        "createdAt": "Wed Feb 05 02:41:35 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 23,
+        "isReply": true,
+        "inReplyToId": "1886964939161760095",
+        "conversationId": "1886964873034449168",
+        "displayTextRange": [
+          0,
+          145
+        ],
+        "inReplyToUserId": "727531224567173120",
+        "inReplyToUsername": "kritarthmittal",
+        "author": {
+          "type": "user",
+          "userName": "kritarthmittal",
+          "url": "https://x.com/kritarthmittal",
+          "twitterUrl": "https://twitter.com/kritarthmittal",
+          "id": "727531224567173120",
+          "name": "Kritarth Mittal | Soshals",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+          "description": "",
+          "location": "blr • del • idr",
+          "followers": 23965,
+          "following": 518,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue May 03 16:12:15 +0000 2016",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 128123,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 5579,
+          "statusesCount": 42748,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2026132581281075252"
+          ],
+          "profile_bio": {
+            "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      21,
+                      32
+                    ],
+                    "name": "",
+                    "screen_name": "soshalsapp"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kritarthmittal…",
+              "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168?s=19",
+              "indices": [
+                122,
+                145
+              ],
+              "url": "https://t.co/tEkJ8XQ0yJ"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "727531224567173120",
+              "indices": [
+                10,
+                25
+              ],
+              "name": "Kritarth Mittal | Soshals",
+              "screen_name": "kritarthmittal"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1886964873034449168",
+          "url": "https://x.com/kritarthmittal/status/1886964873034449168",
+          "twitterUrl": "https://twitter.com/kritarthmittal/status/1886964873034449168",
+          "text": "This guy just crushed the $600B+ ad industry with his AI tool called Icon.\n\nSome are calling him the Sam Altman of UGC ads.\n\n- Backed by Peter Thiel\n- Built by ex-YC founder, and\n- Used by $100M+ brands like Ridge\n\nHere's why you would be a fool to miss this: https://t.co/WXiCzW8Aj7",
+          "source": "Twitter for iPhone",
+          "retweetCount": 279,
+          "replyCount": 253,
+          "likeCount": 2230,
+          "quoteCount": 50,
+          "viewCount": 810608,
+          "createdAt": "Wed Feb 05 02:27:38 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 4582,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1886964873034449168",
+          "displayTextRange": [
+            0,
+            259
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "kritarthmittal",
+            "url": "https://x.com/kritarthmittal",
+            "twitterUrl": "https://twitter.com/kritarthmittal",
+            "id": "727531224567173120",
+            "name": "Kritarth Mittal | Soshals",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+            "description": "",
+            "location": "blr • del • idr",
+            "followers": 23965,
+            "following": 518,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Tue May 03 16:12:15 +0000 2016",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 128123,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 5579,
+            "statusesCount": 42748,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2026132581281075252"
+            ],
+            "profile_bio": {
+              "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        21,
+                        32
+                      ],
+                      "name": "",
+                      "screen_name": "soshalsapp"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/WXiCzW8Aj7",
+                "expanded_url": "https://x.com/kritarthmittal/status/1886964873034449168/photo/1",
+                "ext_alt_text": "kennan davison — the founder of viral AI ad maker called Icon",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 93,
+                        "w": 93,
+                        "x": 352,
+                        "y": 85
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1886957145847144448",
+                "indices": [
+                  260,
+                  283
+                ],
+                "media_key": "3_1886957145847144448",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARov0YbQmqAACgACGi/YjfDbwRAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGi/RhtCaoAAKAAIaL9iN8NvBEAAA",
+                    "media_key": "3_1886957145847144448"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gi_RhtCaoAAIfCU.png",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 449,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 565,
+                      "x": 98,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 496,
+                      "x": 132,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 283,
+                      "x": 239,
+                      "y": 0
+                    },
+                    {
+                      "h": 565,
+                      "w": 801,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 565,
+                  "width": 801
+                },
+                "sizes": {
+                  "large": {
+                    "h": 565,
+                    "w": 801
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/WXiCzW8Aj7"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      }
+    ]
+  },
+  "accountNotes": [
+    {
+      "handle": "@ScottWu46",
+      "note": "Public bio says “Building @cognition” (143,876 followers). He is a frontier-AI company builder and posted congratulations to the Icon team 110 minutes after the anchor. This is consistent with a client/staff or founder-adjacent amplifier, but the public data does not establish a formal Icon role.",
+      "likelyRole": "founder"
+    },
+    {
+      "handle": "@eglyman",
+      "note": "Eric Glyman, co-founder of Ramp, with 370,103 followers. His post highlighted Icon’s age, product improvement, and revenue trajectory at 159 minutes. Large founder account; no public evidence here of an Icon affiliation.",
+      "likelyRole": "founder"
+    },
+    {
+      "handle": "@kritarthmittal",
+      "note": "Bio describes work in engineering virality at Soshals and 200M+ client views. He posted a highly viewed “$600B+ ad industry” framing at 512 minutes and later generated second-wave discussion. Best characterised as a large growth/creator account, not press.",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "@darshal_",
+      "note": "Bio: “Daily AI tools & tech insights,” with a business-contact address; 76,370 followers. Posted a product-focused endorsement at 1,135 minutes. This is consistent with an AI-tools creator/newsletter-style account, but not enough to label it press.",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "@alexgoughcooper",
+      "note": "Bio says he builds with AI, writes about AI and advertising, and co-founded Parker AI. His 4,182-view post at 192 minutes said he would publish a YouTube video with further thoughts. He appears to be a mid-sized adjacent founder/creator rather than confirmed staff or press.",
+      "likelyRole": "mid_creator"
+    },
+    {
+      "handle": "@n0w00j",
+      "note": "Bio says “your favorite founder’s favorite founder” and CEO of @trymelius; 26,231 followers. His 55-minute post was a highly viewed, humorous job-displacement reaction aimed at video editors, Fiverr, and advertising majors. Founder account; no Icon employment evidence found.",
+      "likelyRole": "founder"
+    }
+  ],
+  "narratives": [
+    {
+      "label": "Product endorsement and capability framing",
+      "exampleTweetIds": [
+        "1886850695812256012",
+        "1886859522209406981",
+        "1887121730415759863",
+        "1887043196942999842"
+      ],
+      "firstSeenMinutes": 58
+    },
+    {
+      "label": "Founder/company trajectory and social proof",
+      "exampleTweetIds": [
+        "1886863658040557678",
+        "1886876134588952884",
+        "1886964873034449168"
+      ],
+      "firstSeenMinutes": 110
+    },
+    {
+      "label": "AI-driven job displacement and industry disruption",
+      "exampleTweetIds": [
+        "1886849908847591818",
+        "1886873223200981238",
+        "1886998842253476002"
+      ],
+      "firstSeenMinutes": 55
+    },
+    {
+      "label": "Skepticism about the product claim or advertising strategy",
+      "exampleTweetIds": [
+        "1886872091875795452",
+        "1887126822606852309",
+        "1887486887398678943"
+      ],
+      "firstSeenMinutes": 143
+    },
+    {
+      "label": "Founder backstory / adjacent builder comparison",
+      "exampleTweetIds": [
+        "1887178414034928056",
+        "1887154179493486904"
+      ],
+      "firstSeenMinutes": 1360
+    },
+    {
+      "label": "Regulatory and execution concerns around AI-generated ads",
+      "exampleTweetIds": [
+        "1887250056782434683",
+        "1887486887398678943"
+      ],
+      "firstSeenMinutes": 1645
+    }
+  ],
+  "notes": [
+    "The two alternative search phrasings found additional launch-window posts beyond the deterministic set: @darshal_ (1887121730415759863), @CodeByPoonam (1887043196942999842), and @kritarthmittal (1886964873034449168). The hook-phrase search returned the anchor but no additional post above the 100-like threshold.",
+    "The earliest 25 included a non-anchor second-wave post from @n0w00j at +55 minutes, with 17,149 views, and @alexgoughcooper’s non-anchor post at +192 minutes, with 4,182 views. Quote expansion was attempted for the high-view @kritarthmittal post (1886964873034449168) and @alexgoughcooper post (1886884284117459388); the former exposed later commentary including FTC concerns and “thread boi” criticism, while the latter returned no quote results.",
+    "Observed sequences are temporal associations only. The data does not establish that any amplifier was paid, coordinated, or formally affiliated with Icon. No clearly identifiable press account was confirmed among the six profiled accounts.",
+    "The amplification mixed enthusiastic product descriptions, founder/company validation, employment-disruption humor, and later skepticism about ad quality, marketing claims, and FTC compliance."
+  ]
+}

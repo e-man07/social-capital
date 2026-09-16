@@ -1,0 +1,2089 @@
+{
+  "launch": "superblocks",
+  "extraSearchHits": [
+    {
+      "type": "tweet",
+      "id": "1927733771991724451",
+      "url": "https://x.com/Damn_coder/status/1927733771991724451",
+      "twitterUrl": "https://twitter.com/Damn_coder/status/1927733771991724451",
+      "text": "🚨 BREAKING: You can now save cost of 4 developers.\n\nBrad Menezes, the founder of Superblocks, built Clark AI — an AI engineer that lets you build full-stack apps from a single prompt\n\nFrontend, backend, logic, auth… all handled for you.\n\nLet me show you how:👇",
+      "source": "Twitter for iPhone",
+      "retweetCount": 26,
+      "replyCount": 21,
+      "likeCount": 106,
+      "quoteCount": 2,
+      "viewCount": 95138,
+      "createdAt": "Wed May 28 14:28:41 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 146,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927733771991724451",
+      "displayTextRange": [
+        0,
+        259
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "Damn_coder",
+        "url": "https://x.com/Damn_coder",
+        "twitterUrl": "https://twitter.com/Damn_coder",
+        "id": "1481571894952611841",
+        "name": "D-Coder",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1733111151385317376/svJRU1l9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1481571894952611841/1723739312",
+        "description": "",
+        "location": "Subscribe for free:",
+        "followers": 103056,
+        "following": 555,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Thu Jan 13 10:21:12 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 86815,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 7312,
+        "statusesCount": 48263,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2093933838032658633"
+        ],
+        "profile_bio": {
+          "description": "Sharing Insights on AI, Online business & Productivity |  Helping you leverage AI to grow & monetize  | DM for collaboration | dcoderhere@gmail.com📤",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "joinaiinsights.com/subscribe",
+                  "expanded_url": "http://joinaiinsights.com/subscribe",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/aWDP9ehNw6"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927414638632735069",
+      "url": "https://x.com/bradmenezes/status/1927414638632735069",
+      "twitterUrl": "https://twitter.com/bradmenezes/status/1927414638632735069",
+      "text": "I’m excited to introduce Clark, the first AI Agent to build internal enterprise apps.\n\nWe’ve raised $60M, including a fresh $23M from @sparkcapital @kleinerperkins, @MeritechCapital and Greenoaks.\n\nUnlike consumer vibe coding tools like Lovable, Replit and Bolt that only generate prototypes, Clark builds production-ready internal apps — enforcing your enterprise standards:\n\n🧩 UIs generated using your design system\n🔌 Integrations with private APIs, databases and SaaS apps\n🔐 Permissions mapped to @okta & @azuread  groups\n🛡️ Security with audit logging, secrets management, and vulnerability scans\n\nClark is designed to operate exactly like a human internal tools team. It's built on a state-of-the-art multi-agent architecture, emulating your Designer, IT admin, Engineer, Security Operations, and QA employees.\n\nWhen Clark generates an application, you can modify it in 3 ways:\n\n1. Natural language - talk to Clark\n2. Visual –  Edit it like in Figma\n3. Code – Use your IDE like Cursor or VSCode\n\nGlobal enterprises in regulated industries like @Instacart  (CART), @carrier  (CARR), and @cvent (Blackstone) already run their mission-critical apps on our platform.\n\nOur customers save $5m on average. Book a demo and we'll save you $5m too. And we're so confident that if we can't, we'll donate $5,000 to a charity of your choice:\n\nBook a Demo – https://t.co/oG5LaD10V9\n\n---------\n\nAs part of this launch, we’re giving away the system prompts of leading AI products like Cursor, Manus, and Codex. \n\nThese 6,000 line system prompts have enabled them to become billion-dollar companies on top of foundation models.\n\nRetweet this post and comment ‘Superblocks’ below, and we'll send you the link so you can engineer world class prompts yourself.\n\n👇 See Clark in action in the thread below",
+      "source": "Twitter for iPhone",
+      "retweetCount": 745,
+      "replyCount": 755,
+      "likeCount": 5265,
+      "quoteCount": 178,
+      "viewCount": 1862125,
+      "createdAt": "Tue May 27 17:20:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 6482,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927414638632735069",
+      "displayTextRange": [
+        0,
+        280
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "bradmenezes",
+        "url": "https://x.com/bradmenezes",
+        "twitterUrl": "https://twitter.com/bradmenezes",
+        "id": "117886768",
+        "name": "Brad Menezes",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2063602438095953920/bQY5RsrI_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/117886768/1785498979",
+        "description": "",
+        "location": "New York",
+        "followers": 6714,
+        "following": 1376,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Fri Feb 26 23:15:55 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1532,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 73,
+        "statusesCount": 622,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2084328970649026710"
+        ],
+        "profile_bio": {
+          "description": "Vibe Coding Your CISO Approves | Cofounder & CEO @superblocks",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    49,
+                    61
+                  ],
+                  "name": "",
+                  "screen_name": "superblocks"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "superblocks.com",
+                  "expanded_url": "http://www.superblocks.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/vKoo6JbK12"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/zVlnq8BeCc",
+            "expanded_url": "https://x.com/bradmenezes/status/1927414638632735069/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "1927405281564123136",
+            "indices": [
+              281,
+              304
+            ],
+            "media_key": "13_1927405281564123136",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARq/hORJ12AAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABGr+E5EnXYAAAAA==",
+                "media_key": "13_1927405281564123136"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1927405281564123136/img/vEZ-upxzvZOMxLtE.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1080,
+              "width": 1920
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/zVlnq8BeCc",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 174144,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1927405281564123136/pl/VcEBbwPBBp5UInhE.m3u8?tag=21&v=48b"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927405281564123136/vid/avc1/480x270/uqfRzH6OhCaWp3c-.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927405281564123136/vid/avc1/640x360/PY68Qz5WR0kd3O4V.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927405281564123136/vid/avc1/1280x720/QCW0s8T37Y6V_J6N.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927405281564123136/vid/avc1/1920x1080/bmm13xD2JuZFgaLp.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "superblocks.com/clark",
+            "expanded_url": "http://www.superblocks.com/clark",
+            "indices": [
+              1349,
+              1372
+            ],
+            "url": "https://t.co/oG5LaD10V9"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "18937279",
+            "indices": [
+              134,
+              147
+            ],
+            "name": "Spark Capital",
+            "screen_name": "sparkcapital"
+          },
+          {
+            "id_str": "185808487",
+            "indices": [
+              148,
+              163
+            ],
+            "name": "Kleiner Perkins",
+            "screen_name": "kleinerperkins"
+          },
+          {
+            "id_str": "1262860411",
+            "indices": [
+              165,
+              181
+            ],
+            "name": "Meritech Capital",
+            "screen_name": "MeritechCapital"
+          },
+          {
+            "id_str": "131362254",
+            "indices": [
+              500,
+              505
+            ],
+            "name": "Okta",
+            "screen_name": "okta"
+          },
+          {
+            "id_str": "2745800941",
+            "indices": [
+              508,
+              516
+            ],
+            "name": "Microsoft Entra ID (Azure AD)",
+            "screen_name": "azuread"
+          },
+          {
+            "id_str": "618480916",
+            "indices": [
+              1049,
+              1059
+            ],
+            "name": "Instacart",
+            "screen_name": "Instacart"
+          },
+          {
+            "id_str": "2232071664",
+            "indices": [
+              1069,
+              1077
+            ],
+            "name": "Carrier",
+            "screen_name": "carrier"
+          },
+          {
+            "id_str": "14220113",
+            "indices": [
+              1091,
+              1097
+            ],
+            "name": "Cvent",
+            "screen_name": "cvent"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927663398247891198",
+      "url": "https://x.com/kritarthmittal/status/1927663398247891198",
+      "twitterUrl": "https://twitter.com/kritarthmittal/status/1927663398247891198",
+      "text": "🚨BREAKING: Superblocks just launched Clark AI, a competitor of Lovable and Bolt.\n\nIt helps you build internal enterprise apps without compromising data security.\n\nHere's everything to know: 🧵 https://t.co/Xdvm63Sf6y",
+      "source": "Twitter for iPhone",
+      "retweetCount": 110,
+      "replyCount": 59,
+      "likeCount": 536,
+      "quoteCount": 2,
+      "viewCount": 87352,
+      "createdAt": "Wed May 28 09:49:03 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 97,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927663398247891198",
+      "displayTextRange": [
+        0,
+        191
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "kritarthmittal",
+        "url": "https://x.com/kritarthmittal",
+        "twitterUrl": "https://twitter.com/kritarthmittal",
+        "id": "727531224567173120",
+        "name": "Kritarth Mittal | Soshals",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1759285022090031104/hsXHOAEO_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/727531224567173120/1727902419",
+        "description": "",
+        "location": "blr • del • idr",
+        "followers": 23965,
+        "following": 518,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue May 03 16:12:15 +0000 2016",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 128123,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5579,
+        "statusesCount": 42748,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2026132581281075252"
+        ],
+        "profile_bio": {
+          "description": "engineering virality @soshalsapp | 200M+ views for clients • obsessing over • tech / growth / media",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "",
+                  "indices": [
+                    21,
+                    32
+                  ],
+                  "name": "",
+                  "screen_name": "soshalsapp"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/Xdvm63Sf6y",
+            "expanded_url": "https://x.com/kritarthmittal/status/1927663398247891198/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "1927663227691024384",
+            "indices": [
+              192,
+              215
+            ],
+            "media_key": "13_1927663227691024384",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARrAb34NG0AAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABGsBvfg0bQAAAAA==",
+                "media_key": "13_1927663227691024384"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1927663227691024384/img/QK-Zt3r9QOpQJ1Ju.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1080,
+              "width": 1920
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/Xdvm63Sf6y",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 174144,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1927663227691024384/pl/4QINYupHPZYr4_y8.m3u8?tag=14&v=13a"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927663227691024384/vid/avc1/480x270/0vzoMYQNuukH-Ohk.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927663227691024384/vid/avc1/640x360/d3FSO84orGAkYVU2.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927663227691024384/vid/avc1/1280x720/RGQitFxcPO4-E_Cl.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927523985131982980",
+      "url": "https://x.com/RaulJuncoV/status/1927523985131982980",
+      "twitterUrl": "https://twitter.com/RaulJuncoV/status/1927523985131982980",
+      "text": "I was bored building internal tools... until I discovered this.\n\nEvery internal CRUD app felt like déjà vu.\n\nAuth. Forms. Table views. Wiring databases.\nWeek after week, of rebuilding the same thing in slightly different ways.\n\nIt’s not that the work was hard; it was just... uninspiring.\n\nThen I stumbled on a platform that changed how I think about internal tools.\n\nWith Superblocks, you can stitch together real apps fast.\nNot no-code fluff. Real APIs. Real logic. Real control.\n\nWhat surprised me most?\nIt feels like coding, but without the repetitive scaffolding.\n\nYou can write SQL, hit your own APIs, and drop in components.\nAnd when you need a boost, Clark AI is built right into the platform to speed things up.\n\n• You move faster.\n• You keep control.\n• You focus on logic instead of boilerplate.\n\nIf your team is still hand-coding every admin panel and dashboard...maybe it’s time to try a different approach.\n\nTo add a bonus\n\nI am giving away secret system prompts for billion $ AI agents like Cursor, Replit, and Open AI Codex\n\nIf you want it \nLike + Comment 'Super'\nand I will send it over.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 9,
+      "replyCount": 16,
+      "likeCount": 93,
+      "quoteCount": 0,
+      "viewCount": 7290,
+      "createdAt": "Wed May 28 00:35:04 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 96,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927523985131982980",
+      "displayTextRange": [
+        0,
+        275
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "RaulJuncoV",
+        "url": "https://x.com/RaulJuncoV",
+        "twitterUrl": "https://twitter.com/RaulJuncoV",
+        "id": "1272872603569528833",
+        "name": "Raul Junco",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1579312190443618307/kcl--e8U_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1272872603569528833/1675804350",
+        "description": "",
+        "location": "Writing at",
+        "followers": 47042,
+        "following": 508,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Jun 16 12:44:25 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 29843,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1261,
+        "statusesCount": 18444,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1608448052309770240"
+        ],
+        "profile_bio": {
+          "description": "System Design made me a better engineer. Now I help others do the same. \n\nSystem Design • Backend • Databases • Scalability • AI",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "newsletter.systemdesignclassroom.com",
+                  "expanded_url": "https://newsletter.systemdesignclassroom.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/LrFwGoClVX"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/4hVtoJqldy",
+            "expanded_url": "https://x.com/RaulJuncoV/status/1927523985131982980/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "id_str": "1927523776477941761",
+            "indices": [
+              276,
+              299
+            ],
+            "media_key": "3_1927523776477941761",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARq/8KmJFlABCgACGr/w2h3WUIQAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGr/wqYkWUAEKAAIav/DaHdZQhAAA",
+                "media_key": "3_1927523776477941761"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gr_wqYkWUAEFZhZ.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 295
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 32
+                },
+                {
+                  "h": 832,
+                  "w": 730,
+                  "x": 29,
+                  "y": 0
+                },
+                {
+                  "h": 832,
+                  "w": 416,
+                  "x": 186,
+                  "y": 0
+                },
+                {
+                  "h": 832,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 832,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 832,
+                "w": 800
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/4hVtoJqldy"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927438525936329163",
+      "url": "https://x.com/TheAIColony/status/1927438525936329163",
+      "twitterUrl": "https://twitter.com/TheAIColony/status/1927438525936329163",
+      "text": "🚨SHOCKING: You can now build internal apps 10x faster with AI.\n\nSuperblocks + Clark AI lets anyone go from idea to full-stack app with real backend logic, API calls, and custom UI  in minutes.\n\nHere’s how you can do it in minutes: https://t.co/JBRuSVxlml",
+      "source": "Twitter for iPhone",
+      "retweetCount": 122,
+      "replyCount": 49,
+      "likeCount": 610,
+      "quoteCount": 1,
+      "viewCount": 257642,
+      "createdAt": "Tue May 27 18:55:29 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 280,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927438525936329163",
+      "displayTextRange": [
+        0,
+        230
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "TheAIColony",
+        "url": "https://x.com/TheAIColony",
+        "twitterUrl": "https://twitter.com/TheAIColony",
+        "id": "1323893103623852033",
+        "name": "The AI Colony",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1680178806890397696/sVcTS1Gb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1323893103623852033/1743183564",
+        "description": "",
+        "location": "Launchpad for everything AI →",
+        "followers": 229618,
+        "following": 8707,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Wed Nov 04 07:41:47 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 25961,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 7390,
+        "statusesCount": 30057,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1917489359059644530"
+        ],
+        "profile_bio": {
+          "description": "Home of everything AI — Here to help you use Al to boost your productivity — Daily insights on AI tools & tips || DM for collaborations hello@theaicolony.com",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "theailibrary.co",
+                  "expanded_url": "https://www.theailibrary.co",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/15c2KW6ZdW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.x.com/JBRuSVxlml",
+            "expanded_url": "https://x.com/TheAIColony/status/1927438525936329163/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "id_str": "1927438518365663232",
+            "indices": [
+              231,
+              254
+            ],
+            "media_key": "3_1927438518365663232",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARq/ox7VlzAACgACGr+jIJjWYcsAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGr+jHtWXMAAKAAIav6MgmNZhywAA",
+                "media_key": "3_1927438518365663232"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gr-jHtWXMAA6j5K.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 717,
+                  "w": 1280,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 854,
+                  "w": 854,
+                  "x": 179,
+                  "y": 0
+                },
+                {
+                  "h": 854,
+                  "w": 749,
+                  "x": 232,
+                  "y": 0
+                },
+                {
+                  "h": 854,
+                  "w": 427,
+                  "x": 393,
+                  "y": 0
+                },
+                {
+                  "h": 854,
+                  "w": 1280,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 854,
+              "width": 1280
+            },
+            "sizes": {
+              "large": {
+                "h": 854,
+                "w": 1280
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JBRuSVxlml"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927436109316825361",
+      "url": "https://x.com/nrqa__/status/1927436109316825361",
+      "twitterUrl": "https://twitter.com/nrqa__/status/1927436109316825361",
+      "text": "🚨Breaking: RIP Internal Dev Teams?\n\nThe world’s first AI internal tools engineer is here.\n\nClark by Superblocks builds full apps from a prompt.. backend, frontend, logic, auth.. then lets you tweak it visually or extend with code.\n\nHere’s why this will blow your mind: https://t.co/xtOsuWiZaR",
+      "source": "Twitter for iPhone",
+      "retweetCount": 39,
+      "replyCount": 39,
+      "likeCount": 133,
+      "quoteCount": 1,
+      "viewCount": 140875,
+      "createdAt": "Tue May 27 18:45:53 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 66,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927436109316825361",
+      "displayTextRange": [
+        0,
+        268
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "nrqa__",
+        "url": "https://x.com/nrqa__",
+        "twitterUrl": "https://twitter.com/nrqa__",
+        "id": "1596337163805020160",
+        "name": "Nelly;",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2035538789037420544/yWyu20U2_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1596337163805020160/1746589058",
+        "description": "",
+        "location": "No limit",
+        "followers": 76787,
+        "following": 977,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sat Nov 26 02:57:03 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 67027,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 12375,
+        "statusesCount": 51334,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "2058740615530397955"
+        ],
+        "profile_bio": {
+          "description": "𝕏'ing hot takes on AI & tech || Biz inq ✉️hey@nellyrq.io",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/xtOsuWiZaR",
+            "expanded_url": "https://x.com/nrqa__/status/1927436109316825361/photo/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 48,
+                    "w": 48,
+                    "x": 133,
+                    "y": 719
+                  },
+                  {
+                    "h": 60,
+                    "w": 60,
+                    "x": 96,
+                    "y": 435
+                  },
+                  {
+                    "h": 106,
+                    "w": 106,
+                    "x": 162,
+                    "y": 244
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 48,
+                    "w": 48,
+                    "x": 133,
+                    "y": 719
+                  },
+                  {
+                    "h": 60,
+                    "w": 60,
+                    "x": 96,
+                    "y": 435
+                  },
+                  {
+                    "h": 106,
+                    "w": 106,
+                    "x": 162,
+                    "y": 244
+                  }
+                ]
+              }
+            },
+            "id_str": "1927436103872630784",
+            "indices": [
+              269,
+              292
+            ],
+            "media_key": "3_1927436103872630784",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARq/oOyql1AACgACGr+g7e8XIREAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGr+g7KqXUAAKAAIav6Dt7xchEQAA",
+                "media_key": "3_1927436103872630784"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gr-g7KqXUAAEd91.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 573,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 898,
+                  "x": 126,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 512,
+                  "x": 512,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1024,
+              "width": 1024
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "w": 1024
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xtOsuWiZaR"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927429077163536513",
+      "url": "https://x.com/ClubAiworld/status/1927429077163536513",
+      "twitterUrl": "https://twitter.com/ClubAiworld/status/1927429077163536513",
+      "text": "First AI Engineer That Takes JIRA Tickets\n\nWe just assigned a JIRA ticket to an AI and it actually shipped the feature  Clark by @Superblocks doesn't just code -\n\nit works like a real engineer: https://t.co/RDvKXSir7z",
+      "source": "Twitter for iPhone",
+      "retweetCount": 41,
+      "replyCount": 31,
+      "likeCount": 123,
+      "quoteCount": 1,
+      "viewCount": 61865,
+      "createdAt": "Tue May 27 18:17:56 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 62,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927429077163536513",
+      "displayTextRange": [
+        0,
+        193
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ClubAiworld",
+        "url": "https://x.com/ClubAiworld",
+        "twitterUrl": "https://twitter.com/ClubAiworld",
+        "id": "1236527104637853696",
+        "name": "AI Club",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1843213226676256768/DXHO1A6I_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1236527104637853696/1728291312",
+        "description": "",
+        "location": "USA",
+        "followers": 9010,
+        "following": 212,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Sun Mar 08 05:40:22 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 28644,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5898,
+        "statusesCount": 17663,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1957072464124744133"
+        ],
+        "profile_bio": {
+          "description": "Sharing insights on AI , Productivity & Business \n• I write about new AI tools everyday \n• DM if you want \n📩 - passioncoding7@gmail.com",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.x.com/RDvKXSir7z",
+            "expanded_url": "https://x.com/ClubAiworld/status/1927429077163536513/video/1",
+            "ext_master_playlist_only": [],
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "ext_playlists": [],
+            "id_str": "1927429018749468672",
+            "indices": [
+              194,
+              217
+            ],
+            "media_key": "13_1927429018749468672",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARq/mnsIV4AAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABGr+aewhXgAAAAA==",
+                "media_key": "13_1927429018749468672"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1927429018749468672/img/zSfDsEi8tycmZHVa.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1890,
+              "width": 3834
+            },
+            "sizes": {
+              "large": {
+                "h": 1010,
+                "w": 2048
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/RDvKXSir7z",
+            "video_info": {
+              "aspect_ratio": [
+                71,
+                35
+              ],
+              "duration_millis": 108738,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1927429018749468672/pl/YsLSWgCf8J-kvD0P.m3u8?tag=14&v=bf8"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927429018749468672/vid/avc1/546x270/HE4HLr18wTVfacrh.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927429018749468672/vid/avc1/730x360/fyhc3377nuQFu0CA.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1927429018749468672/vid/avc1/1460x720/8iAlbDvFTkM9szvF.mp4?tag=14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "185345885",
+            "indices": [
+              129,
+              141
+            ],
+            "name": "Superblocks",
+            "screen_name": "superblocks"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1927727590326059478",
+      "url": "https://x.com/AngryTomtweets/status/1927727590326059478",
+      "twitterUrl": "https://twitter.com/AngryTomtweets/status/1927727590326059478",
+      "text": "This is crazy...\n\nSuperblock just launched Clark, the first AI agent to build internal enterprise apps.\n\nGive it a prompt and it does most of the heavy coding for you.\n\nHere are 8 examples and use cases: 👇",
+      "source": "Twitter for iPhone",
+      "retweetCount": 16,
+      "replyCount": 12,
+      "likeCount": 141,
+      "quoteCount": 2,
+      "viewCount": 86288,
+      "createdAt": "Wed May 28 14:04:07 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 293,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1927727590326059478",
+      "displayTextRange": [
+        0,
+        205
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "AngryTomtweets",
+        "url": "https://x.com/AngryTomtweets",
+        "twitterUrl": "https://twitter.com/AngryTomtweets",
+        "id": "1582819328281481225",
+        "name": "Angry Tom",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1583586611517919239/iU-EoCz1_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1582819328281481225/1730677613",
+        "description": "",
+        "location": "",
+        "followers": 150140,
+        "following": 910,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Wed Oct 19 19:41:56 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 93274,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5550,
+        "statusesCount": 22586,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Consultant & AI educator | On a mission to build an empire with artificial intelligence",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "x.com/angrytomtweets",
+                  "expanded_url": "http://x.com/angrytomtweets",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/hnncBqypzo"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "communityInfo": null,
+      "article": null
+    }
+  ],
+  "extraQuoteExpansions": {
+    "1927438525936329163": [
+      {
+        "type": "tweet",
+        "id": "1927446446711652428",
+        "url": "https://x.com/FutureStacked/status/1927446446711652428",
+        "twitterUrl": "https://twitter.com/FutureStacked/status/1927446446711652428",
+        "text": "Building internal apps has never been this easy",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 11,
+        "quoteCount": 0,
+        "viewCount": 103433,
+        "createdAt": "Tue May 27 19:26:57 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 22,
+        "isReply": true,
+        "inReplyToId": "1927355786440663360",
+        "conversationId": "1927271534285996393",
+        "displayTextRange": [
+          0,
+          47
+        ],
+        "inReplyToUserId": "1285247159500189699",
+        "inReplyToUsername": "FutureStacked",
+        "author": {
+          "type": "user",
+          "userName": "FutureStacked",
+          "url": "https://x.com/FutureStacked",
+          "twitterUrl": "https://twitter.com/FutureStacked",
+          "id": "1285247159500189699",
+          "name": "Future Stacked",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1905672267016646656/9IrH0OT8_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1285247159500189699/1743189473",
+          "description": "",
+          "location": "United Kingdom",
+          "followers": 287150,
+          "following": 141,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Mon Jul 20 16:17:41 +0000 2020",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 42518,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 2874,
+          "statusesCount": 6148,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "AI, Tech and Robotics || Bringing the future to you. || DM for collaborations || 📩 - hello@futurestacked.com",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1927438525936329163",
+          "url": "https://x.com/TheAIColony/status/1927438525936329163",
+          "twitterUrl": "https://twitter.com/TheAIColony/status/1927438525936329163",
+          "text": "🚨SHOCKING: You can now build internal apps 10x faster with AI.\n\nSuperblocks + Clark AI lets anyone go from idea to full-stack app with real backend logic, API calls, and custom UI  in minutes.\n\nHere’s how you can do it in minutes: https://t.co/JBRuSVxlml",
+          "source": "Twitter for iPhone",
+          "retweetCount": 122,
+          "replyCount": 49,
+          "likeCount": 610,
+          "quoteCount": 1,
+          "viewCount": 257642,
+          "createdAt": "Tue May 27 18:55:29 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 280,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1927438525936329163",
+          "displayTextRange": [
+            0,
+            230
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "TheAIColony",
+            "url": "https://x.com/TheAIColony",
+            "twitterUrl": "https://twitter.com/TheAIColony",
+            "id": "1323893103623852033",
+            "name": "The AI Colony",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1680178806890397696/sVcTS1Gb_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1323893103623852033/1743183564",
+            "description": "",
+            "location": "Launchpad for everything AI →",
+            "followers": 229618,
+            "following": 8707,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": false,
+            "createdAt": "Wed Nov 04 07:41:47 +0000 2020",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 25961,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 7390,
+            "statusesCount": 30057,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "1917489359059644530"
+            ],
+            "profile_bio": {
+              "description": "Home of everything AI — Here to help you use Al to boost your productivity — Daily insights on AI tools & tips || DM for collaborations hello@theaicolony.com",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "theailibrary.co",
+                      "expanded_url": "https://www.theailibrary.co",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/15c2KW6ZdW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "display_url": "pic.x.com/JBRuSVxlml",
+                "expanded_url": "https://x.com/TheAIColony/status/1927438525936329163/photo/1",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  }
+                },
+                "id_str": "1927438518365663232",
+                "indices": [
+                  231,
+                  254
+                ],
+                "media_key": "3_1927438518365663232",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARq/ox7VlzAACgACGr+jIJjWYcsAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGr+jHtWXMAAKAAIav6MgmNZhywAA",
+                    "media_key": "3_1927438518365663232"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gr-jHtWXMAA6j5K.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 717,
+                      "w": 1280,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 854,
+                      "w": 854,
+                      "x": 179,
+                      "y": 0
+                    },
+                    {
+                      "h": 854,
+                      "w": 749,
+                      "x": 232,
+                      "y": 0
+                    },
+                    {
+                      "h": 854,
+                      "w": 427,
+                      "x": 393,
+                      "y": 0
+                    },
+                    {
+                      "h": 854,
+                      "w": 1280,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 854,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 854,
+                    "w": 1280
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/JBRuSVxlml"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      }
+    ],
+    "1927436109316825361": [
+      {
+        "type": "tweet",
+        "id": "1927673667221409811",
+        "url": "https://x.com/nrqa__/status/1927673667221409811",
+        "twitterUrl": "https://twitter.com/nrqa__/status/1927673667221409811",
+        "text": "How to build trusted AI:\n\n——\nif you’re still manually building internal apps.. you gotta check this: https://t.co/L0Qg3tWREP https://t.co/6uizbBLixZ",
+        "source": "Twitter for iPhone",
+        "retweetCount": 59,
+        "replyCount": 12,
+        "likeCount": 200,
+        "quoteCount": 1,
+        "viewCount": 82957,
+        "createdAt": "Wed May 28 10:29:51 +0000 2025",
+        "lang": "en",
+        "bookmarkCount": 199,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1927673667221409811",
+        "displayTextRange": [
+          0,
+          124
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "nrqa__",
+          "url": "https://x.com/nrqa__",
+          "twitterUrl": "https://twitter.com/nrqa__",
+          "id": "1596337163805020160",
+          "name": "Nelly;",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2035538789037420544/yWyu20U2_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1596337163805020160/1746589058",
+          "description": "",
+          "location": "No limit",
+          "followers": 76787,
+          "following": 977,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sat Nov 26 02:57:03 +0000 2022",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 67027,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 12375,
+          "statusesCount": 51334,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2058740615530397955"
+          ],
+          "profile_bio": {
+            "description": "𝕏'ing hot takes on AI & tech || Biz inq ✉️hey@nellyrq.io",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/6uizbBLixZ",
+              "expanded_url": "https://x.com/nrqa__/status/1927673667221409811/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 87,
+                      "w": 87,
+                      "x": 636,
+                      "y": 529
+                    },
+                    {
+                      "h": 90,
+                      "w": 90,
+                      "x": 484,
+                      "y": 530
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 87,
+                      "w": 87,
+                      "x": 636,
+                      "y": 529
+                    },
+                    {
+                      "h": 90,
+                      "w": 90,
+                      "x": 484,
+                      "y": 530
+                    }
+                  ]
+                }
+              },
+              "id_str": "1927673660682444800",
+              "indices": [
+                125,
+                148
+              ],
+              "media_key": "3_1927673660682444800",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrAePsr2qAACgACGsB4/LGbUBMAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGsB4+yvaoAAKAAIawHj8sZtQEwAA",
+                  "media_key": "3_1927673660682444800"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GsB4-yvaoAAvrhH.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 412,
+                    "w": 736,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 736,
+                    "w": 736,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 839,
+                    "w": 736,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 920,
+                    "w": 460,
+                    "x": 69,
+                    "y": 0
+                  },
+                  {
+                    "h": 920,
+                    "w": 736,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 920,
+                "width": 736
+              },
+              "sizes": {
+                "large": {
+                  "h": 920,
+                  "w": 736
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/6uizbBLixZ"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "superblocks.com",
+              "expanded_url": "http://superblocks.com",
+              "indices": [
+                101,
+                124
+              ],
+              "url": "https://t.co/L0Qg3tWREP"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1927436109316825361",
+          "url": "https://x.com/nrqa__/status/1927436109316825361",
+          "twitterUrl": "https://twitter.com/nrqa__/status/1927436109316825361",
+          "text": "🚨Breaking: RIP Internal Dev Teams?\n\nThe world’s first AI internal tools engineer is here.\n\nClark by Superblocks builds full apps from a prompt.. backend, frontend, logic, auth.. then lets you tweak it visually or extend with code.\n\nHere’s why this will blow your mind: https://t.co/xtOsuWiZaR",
+          "source": "Twitter for iPhone",
+          "retweetCount": 39,
+          "replyCount": 39,
+          "likeCount": 133,
+          "quoteCount": 1,
+          "viewCount": 140875,
+          "createdAt": "Tue May 27 18:45:53 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 66,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1927436109316825361",
+          "displayTextRange": [
+            0,
+            268
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "nrqa__",
+            "url": "https://x.com/nrqa__",
+            "twitterUrl": "https://twitter.com/nrqa__",
+            "id": "1596337163805020160",
+            "name": "Nelly;",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/2035538789037420544/yWyu20U2_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1596337163805020160/1746589058",
+            "description": "",
+            "location": "No limit",
+            "followers": 76787,
+            "following": 977,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": false,
+            "createdAt": "Sat Nov 26 02:57:03 +0000 2022",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 67027,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 12375,
+            "statusesCount": 51334,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2058740615530397955"
+            ],
+            "profile_bio": {
+              "description": "𝕏'ing hot takes on AI & tech || Biz inq ✉️hey@nellyrq.io",
+              "entities": {
+                "description": {}
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/xtOsuWiZaR",
+                "expanded_url": "https://x.com/nrqa__/status/1927436109316825361/photo/1",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 133,
+                        "y": 719
+                      },
+                      {
+                        "h": 60,
+                        "w": 60,
+                        "x": 96,
+                        "y": 435
+                      },
+                      {
+                        "h": 106,
+                        "w": 106,
+                        "x": 162,
+                        "y": 244
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 133,
+                        "y": 719
+                      },
+                      {
+                        "h": 60,
+                        "w": 60,
+                        "x": 96,
+                        "y": 435
+                      },
+                      {
+                        "h": 106,
+                        "w": 106,
+                        "x": 162,
+                        "y": 244
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1927436103872630784",
+                "indices": [
+                  269,
+                  292
+                ],
+                "media_key": "3_1927436103872630784",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARq/oOyql1AACgACGr+g7e8XIREAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGr+g7KqXUAAKAAIav6Dt7xchEQAA",
+                    "media_key": "3_1927436103872630784"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/Gr-g7KqXUAAEd91.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 573,
+                      "w": 1024,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1024,
+                      "w": 1024,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1024,
+                      "w": 898,
+                      "x": 126,
+                      "y": 0
+                    },
+                    {
+                      "h": 1024,
+                      "w": 512,
+                      "x": 512,
+                      "y": 0
+                    },
+                    {
+                      "h": 1024,
+                      "w": 1024,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1024,
+                  "width": 1024
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1024,
+                    "w": 1024
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/xtOsuWiZaR"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      }
+    ]
+  },
+  "accountNotes": [
+    {
+      "handle": "nrqa__",
+      "note": "AI/tech commentator with 76,787 followers; bio describes hot takes and business inquiries. Posted an early anchor quote at +17 minutes and a separate high-reach product explainer at +85 minutes. Likely large creator, not identified as Superblocks or investor staff.",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "LinusEkenstam",
+      "note": "AI and robotics creator with 243,074 followers who publishes deep dives and hot takes. Quoted the anchor at +56 minutes with an optimistic agentic-development endorsement. Likely large creator.",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "mamoonha",
+      "note": "Mamoon Hamid, partner at Kleiner Perkins, with 35,043 followers. Quoted the anchor at +92 minutes while describing the partnership with Brad Menezes, Ran Ma and Superblocks. Investor/partner account; not classified as client staff.",
+      "likelyRole": "unknown"
+    },
+    {
+      "handle": "TheAIColony",
+      "note": "AI productivity account with 229,618 followers and a collaboration contact in its bio. Posted a non-quote launch explainer at +95 minutes that reached 257,642 views. Likely large creator or AI media account rather than press identified by name.",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "Damn_coder",
+      "note": "AI, online-business and productivity account with 103,056 followers. Posted a non-quote launch explainer at +1,268 minutes, framing Clark around saving the cost of four developers and naming Brad as founder. Likely large creator.",
+      "likelyRole": "large_creator"
+    },
+    {
+      "handle": "AngryTomtweets",
+      "note": "Consultant and AI educator with 150,150 followers. Posted a non-quote launch summary at +1,244 minutes, repeating the internal-enterprise-app hook and prompting readers to try it. Likely large creator.",
+      "likelyRole": "large_creator"
+    }
+  ],
+  "narratives": [
+    {
+      "label": "Product endorsement and launch congratulations",
+      "exampleTweetIds": [
+        "1927418919209316804",
+        "1927428695834136727",
+        "1927437908820066341",
+        "1927446755810955601"
+      ],
+      "firstSeenMinutes": 17
+    },
+    {
+      "label": "AI productivity and internal-tools positioning",
+      "exampleTweetIds": [
+        "1927436109316825361",
+        "1927438525936329163",
+        "1927446446711652428"
+      ],
+      "firstSeenMinutes": 57
+    },
+    {
+      "label": "Enterprise/production-readiness endorsement",
+      "exampleTweetIds": [
+        "1927431999028875320",
+        "1927465996916232553",
+        "1927452576535990768"
+      ],
+      "firstSeenMinutes": 69
+    },
+    {
+      "label": "Skepticism and critique of AI replacing developers",
+      "exampleTweetIds": [
+        "1927477132709462088",
+        "1927478475188793489",
+        "1927490044878573722"
+      ],
+      "firstSeenMinutes": 248
+    },
+    {
+      "label": "Founder and funding backstory",
+      "exampleTweetIds": [
+        "1927727590326059478",
+        "1927733771991724451",
+        "1928572661044555803"
+      ],
+      "firstSeenMinutes": 1244
+    }
+  ],
+  "notes": [
+    "The two alternative launch-window searches surfaced several non-anchor posts missed by the deterministic quote collector: TheAIColony (1927438525936329163, 257,642 views, +95 minutes), nrqa__ (1927436109316825361, 140,875 views, +85 minutes), ClubAiworld (1927429077163536513, 61,865 views, +57 minutes), RaulJuncoV (1927523985131982980, 7,290 views, +435 minutes), and later high-reach posts by AngryTomtweets and Damn_coder.",
+    "The product-nickname search also recovered the anchor and a later founder-focused post; the founder-name and hook searches overlapped substantially rather than producing a separate clearly new cluster.",
+    "Expanding second-wave posts found a 103,433-view non-anchor quote of TheAIColony's post by FutureStacked (1927446446711652428) at +126 minutes, and an 82,957-view non-anchor quote of nrqa__ by nrqa__ (1927673667221409811) at +1,029 minutes. These show later amplification around the secondary explainers rather than direct quotes of the anchor.",
+    "The evidence supports temporal association and repeated framing, not causation or payment. No press account or confirmed Social Capital/client staff account was established from the sampled profiles. No LinkedIn-specific post was identified in the supplied searches."
+  ]
+}
