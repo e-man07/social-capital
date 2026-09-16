@@ -34,10 +34,11 @@ export default function Home() {
           <p className="text-xl sm:text-2xl md:text-[28px] leading-snug tracking-tight font-medium">
             The launch post is not the launch. Most of the reach comes from the same ~60 accounts posting in the days <em>after</em> launch day, and their biggest posts are about the founder, not the product.
           </p>
-          <div className="grid md:grid-cols-3 gap-5 text-sm leading-relaxed pt-2">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 text-sm leading-relaxed pt-2">
             <div><div className="font-medium">Why it is unusual</div><div className="muted">Everyone, including Social Capital&apos;s own pitch, treats the launch post and the first-hour burst as the event. In the data the first hour is 13% of the reach. The following six days are 87%.</div></div>
             <div><div className="font-medium">Who carries it</div><div className="muted">61 accounts appear in three or more of the nine launches, across HR software, fintech, voice AI, slides and ads. The largest day-2 to day-7 posts come from this group.</div></div>
             <div><div className="font-medium">What they post</div><div className="muted">Not the launch video. Founder backstory: &ldquo;be Tanay Kothari, spawn in Delhi, attend DPS RK Puram...&rdquo; (766K views from a 20K-follower account). On Wispr Flow, Cartesia and Icon these out-reach the launch-day content.</div></div>
+            <div><div className="font-medium">It is not even about the quotes</div><div className="muted">Quoting the founder&apos;s post is only part of it. In 5 of 9 launches, posts that never quoted the launch at all got more views than everything that did. The distribution runs beside the launch post, not just off it.</div></div>
           </div>
         </div>
 
