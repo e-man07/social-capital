@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# harness raw HTTP cache (regenerable, 30MB+)
+data/raw/
+
+# local research notes
+docs/*.md
