@@ -29,7 +29,7 @@ export function SystemDiagram() {
       <Box title="Analysis agent" sub="tests hypotheses H1–H7 · labels every claim observed / inferred / not determinable" dark wide />
       <Down />
       <Box title="This page" sub="charts · findings · ask the graph" wide />
-      <p className="text-sm muted max-w-xl mt-6">Scripts do the fetching; the two agents decide what else to look for and what the numbers support. One full run costs under $3 of X data and about $0.06 of OpenAI (gpt-5.6-luna).</p>
+      <p className="text-sm muted max-w-xl mt-6">Scripts do the fetching; the two agents decide what else to look for and what the numbers support.</p>
     </div>
   );
 }
