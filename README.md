@@ -9,7 +9,11 @@ Built for the Social Capital Technical Generalist application challenge: *aggreg
 
 ## The unusual insight
 
-> **The launch post is not the launch.** Most of the reach comes from the same ~60 accounts posting in the days *after* launch day, and their biggest posts are about the founder, not the product.
+> **The launch post is not the launch.** Across 9 launches, a median 87% of the reach comes after the first hour, with the same ~60 accounts showing up again and again.
+>
+> And the weird part is what they talk about. Their biggest posts are often about the founder, not the product. For Wispr Flow, Cartesia and Icon, founder stories from these recurring accounts pulled more attention than the actual launch content.
+>
+> **The product gets launched. The founder becomes the story.**
 
 ![The unusual insight](docs/img/insight.png)
 
